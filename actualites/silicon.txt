@@ -1,0 +1,1669 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<head>
+        <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+        <title>docker : Toute l&#039;actualité, dossiers et analyses | Silicon    </title>
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.silicon.fr/wp/xmlrpc.php">
+    <!--[if lt IE 9]>
+    <script src="https://www.silicon.fr/wp-content/themes/kamino/js/html5.js"></script>
+    <![endif]-->
+    
+<!-- This site is optimized with the Yoast SEO plugin v13.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Retrouvez toutes les actus docker : news, livres blancs, dossiers, analyses. Toute l&#039;actualité IT sur Silicon.fr"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="next" href="https://www.silicon.fr/tag/docker/page/2" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="docker : Toute l&#039;actualité, dossiers et analyses | Silicon" />
+<meta property="og:description" content="Retrouvez toutes les actus docker : news, livres blancs, dossiers, analyses. Toute l&#039;actualité IT sur Silicon.fr" />
+<meta property="og:site_name" content="Silicon" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Retrouvez toutes les actus docker : news, livres blancs, dossiers, analyses. Toute l&#039;actualité IT sur Silicon.fr" />
+<meta name="twitter:title" content="docker : Toute l&#039;actualité, dossiers et analyses | Silicon" />
+<meta name="twitter:site" content="@frsilicon" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="amphtml" href="https://www.silicon.fr/tag/docker/amp" /><meta name="generator" content="AMP for WP 1.0.64"/><link rel='dns-prefetch' href='//www.silicon.fr' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.silicon.fr\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/css/silicon-style.css?ver=1608903943" type="text/css" async="async">
+<link rel='stylesheet' id='kamino-what-is-my-ip-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-what-is-my-ip/css/kamino-what-is-my-ip.css?ver=1.0.0a' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.silicon.fr/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.silicon.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hutt-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-hutt/assets/css/hutt.css?ver=1608903943' type='text/css' media='all' />
+<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/kamino-post-type-expert/assets/refonte_v2/css/expert-silicon-widget.css?ver=1608903943" type="text/css" async="async">
+<link rel='stylesheet' id='pdfprnt_frontend-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-print-pdf/css/frontend.css?ver=1.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='kamino_plugin_quick_registration-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-quick-registration/public/css/kamino-plugin-quick-registration-public.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kamino-wonderpush-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-wonderpush/public/css/kamino-wonderpush-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/wp-email/email-css.css?ver=2.68.1" type="text/css" async="async">
+<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.5" type="text/css" async="async">
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://www.silicon.fr/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='it_interview_widget-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-post-type-interview/assets/refonte_v2/css/interview-widget.min.css?ver=1608903943' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.silicon.fr/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/kamino-what-is-my-ip/js/jquery.flightboard.js?ver=5.4.4" defer="defer" ></script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/kamino-what-is-my-ip/js/kamino.what-is-my-ip.js?ver=5.4.4" defer="defer" ></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/kamino-hutt/assets/js/visible.min.js?ver=5.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pw_script_vars = {"failure_field":"Le champs email est vide","failure_form":"L'adresse email n'est pas valide","request_fail_msg":"D\u00e9sol\u00e9, votre demande a \u00e9chou\u00e9","KAMINO_SUBSCRIPTION_URL":"https:\/\/inscription.silicon.fr","url_post":"https:\/\/inscription.silicon.fr\/profile\/register-to-newsletter.php","site_name":"silicon.fr","push_data":{"site":{"name":"silicon.fr","domain":"www.silicon.fr","country":"france"},"page":"archive","type":"post_tag","slug":"docker","title":"docker"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/kamino-quick-registration/public/js/kamino-plugin-quick-registration-public.js?ver=1.2.3" defer="defer" ></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/kamino-wonderpush/public/js/kamino-wonderpush-public.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kamino_cookie_data = {"KAMINO_ANABOLIC_COOKIE_NAME":"fr9","KAMINO_SUBSCRIPTION_URL":"https:\/\/inscription.silicon.fr","KAMINO_SITE_NAME":"silicon.fr","string_continue":"http%3A%2F%2Fwww.silicon.fr%2Ftag%2Fdocker","string_continue_label":"Silicon","string_edit_your_profile":"Modifiez votre profil","string_disconnect":"Disconnect","string_login":"Connectez-vous","string_newsletter":"Newsletter","string_cookie_privacy_text":"Nous utilisons des cookies afin de personnaliser le contenu et les fonctionnalit\u00e9s de notre site. En continuant \u00e0 naviguer, vous acceptez leur utilisation. Plus de d\u00e9tails sur notre politique d'utilisation des cookies .<a href=\"http:\/\/www.silicon.fr\/conditions-generales-dutilisation\" class=\"knowmore\">En savoir plus<\/a>","string_close":"Fermer","string_agree":"Je suis d'accord","string_donotshowmsg":"Ne plus afficher ce message"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/js/cookie.min.js?ver=1608903943'></script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/themes/kamino/assets/js/utils-kamino.min.js?ver=1608903943" async="async" ></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/js/mobile_menu.js?ver=1608903943'></script>
+<link rel='https://api.w.org/' href='https://www.silicon.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.silicon.fr/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.silicon.fr/wp/wp-includes/wlwmanifest.xml" /> 
+<script>
+                            (function(w, d, s, id, n){
+                                w[n] = w[n] || {q: [],
+                                    init: function(o) {w[n].initOpts = o;},
+                                    ready: function(c) {w[n].q.push(c);}};
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) {return;}
+                                js = d.createElement(s); js.id = id;
+                                js.src = "https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }(window, document, "script", "wonderpush-jssdk-loader", "WonderPush"));
+                            
+                            WonderPush.init({
+                                webKey: "ad77f87d323d27593794da6caaf152341f99c2e405e1c69e40e35b975166f29f",
+                                optInOptions: {
+                                    externalBoxMessage: "Vous recevrez de notre part des notifications personnalisées.",
+                                    externalBoxExampleTitle: "Exemple de notification",
+                                    externalBoxExampleMessage: "Ceci est un exemple de notification",
+                                    externalBoxDisclaimer: "Vous avez la possibilité de vous désabonner à tout moment",                         
+                                    modalBoxMessage: "Vous recevrez de notre part des notifications personnalisées. <br/>Vous avez la possibilité de vous désabonner à tout moment",
+                                    modalBoxButton: "J'ai compris !",
+                                    externalBoxProcessingMessage: "Inscription en cours",
+                                    externalBoxSuccessMessage: "Merci pour votre inscription !",
+                                    externalBoxFailureMessage: "Nous sommes désolés, une erreur est survenue",
+                                    externalBoxTooLongHint: "Connexion faible ou navigation privée ?",
+                                    externalBoxCloseHint: "Fermer"
+                                }
+                            });
+                            </script><!-- <meta name="NextGEN" version="2.2.45" /> -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="ahrefs-site-verification" content="f09ae51bbb87186a79eb663f3af1e37d0d6d28a6a2f26784d7850332b7eb4166">
+<script>function _extends(){return(_extends=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(t[o]=n[o])}return t}).apply(this,arguments)}function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(t,e){"object"===("undefined"==typeof exports?"undefined":_typeof(exports))&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.LazyLoad=e()}(this,function(){"use strict";var t="undefined"!=typeof window,e=t&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),n=t&&"IntersectionObserver"in window,o=t&&"classList"in document.createElement("p"),r={elements_selector:"img",container:e||t?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",class_loading:"loading",class_loaded:"loaded",class_error:"error",load_delay:0,auto_unobserve:!0,callback_enter:null,callback_exit:null,callback_reveal:null,callback_loaded:null,callback_error:null,callback_finish:null},a=function(t,e){return t.getAttribute("data-"+e)},s=function(t,e,n){var o="data-"+e;null!==n?t.setAttribute(o,n):t.removeAttribute(o)},i=function(t){return"true"===a(t,"was-processed")},c=function(t,e){return s(t,"ll-timeout",e)},l=function(t){return a(t,"ll-timeout")},u=function(t,e){var n,o=new t(e);try{n=new CustomEvent("LazyLoad::Initialized",{detail:{instance:o}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent("LazyLoad::Initialized",!1,!1,{instance:o})}window.dispatchEvent(n)};var d=function(t,e){t&&t(e)},f=function(t,e){t._loadingCount+=e,0===t._elements.length&&0===t._loadingCount&&d(t._settings.callback_finish)},_=function(t){for(var e,n=[],o=0;e=t.children[o];o+=1)"SOURCE"===e.tagName&&n.push(e);return n},v=function(t,e,n){n&&t.setAttribute(e,n)},b=function(t,e){v(t,"sizes",a(t,e.data_sizes)),v(t,"srcset",a(t,e.data_srcset)),v(t,"src",a(t,e.data_src))},g={IMG:function(t,e){var n=t.parentNode;n&&"PICTURE"===n.tagName&&_(n).forEach(function(t){b(t,e)});b(t,e)},IFRAME:function(t,e){v(t,"src",a(t,e.data_src))},VIDEO:function(t,e){_(t).forEach(function(t){v(t,"src",a(t,e.data_src))}),v(t,"src",a(t,e.data_src)),t.load()}},m=function(t,e){var n,o,r=e._settings,s=t.tagName,i=g[s];if(i)return i(t,r),f(e,1),void(e._elements=(n=e._elements,o=t,n.filter(function(t){return t!==o})));!function(t,e){var n=a(t,e.data_src),o=a(t,e.data_bg);n&&(t.style.backgroundImage='url("'.concat(n,'")')),o&&(t.style.backgroundImage=o)}(t,r)},h=function(t,e){o?t.classList.add(e):t.className+=(t.className?" ":"")+e},p=function(t,e,n){t.addEventListener(e,n)},y=function(t,e,n){t.removeEventListener(e,n)},E=function(t,e,n){y(t,"load",e),y(t,"loadeddata",e),y(t,"error",n)},w=function(t,e,n){var r=n._settings,a=e?r.class_loaded:r.class_error,s=e?r.callback_loaded:r.callback_error,i=t.target;!function(t,e){o?t.classList.remove(e):t.className=t.className.replace(new RegExp("(^|\\s+)"+e+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")}(i,r.class_loading),h(i,a),d(s,i),f(n,-1)},k=function(t,e){var n=function n(r){w(r,!0,e),E(t,n,o)},o=function o(r){w(r,!1,e),E(t,n,o)};!function(t,e,n){p(t,"load",e),p(t,"loadeddata",e),p(t,"error",n)}(t,n,o)},I=["IMG","IFRAME","VIDEO"],L=function(t,e){var n=e._observer;z(t,e),n&&e._settings.auto_unobserve&&n.unobserve(t)},x=function(t){var e=l(t);e&&(clearTimeout(e),c(t,null))},A=function(t,e){var n=e._settings.load_delay,o=l(t);o||(o=setTimeout(function(){L(t,e),x(t)},n),c(t,o))},z=function(t,e,n){var o=e._settings;!n&&i(t)||(I.indexOf(t.tagName)>-1&&(k(t,e),h(t,o.class_loading)),m(t,e),function(t){s(t,"was-processed","true")}(t),d(o.callback_reveal,t))},O=function(t){return!!n&&(t._observer=new IntersectionObserver(function(e){e.forEach(function(e){return function(t){return t.intersectionRatio>0}(e)?function(t,e){var n=e._settings;d(n.callback_enter,t),n.load_delay?A(t,e):L(t,e)}(e.target,t):function(t,e){var n=e._settings;d(n.callback_exit,t),n.load_delay&&x(t)}(e.target,t)})},{root:(e=t._settings).container===document?null:e.container,rootMargin:e.thresholds||e.threshold+"px"}),!0);var e},N=function(t,e){this._settings=function(t){return _extends({},r,t)}(t),this._loadingCount=0,O(this),this.update(e)};return N.prototype={update:function(t){var n=this,o=this._settings,r=t||o.container.querySelectorAll(o.elements_selector);this._elements=function(t){return t.filter(function(t){return!i(t)})}(Array.prototype.slice.call(r)),!e&&this._observer?this._elements.forEach(function(t){n._observer.observe(t)}):this.loadAll()},destroy:function(){var t=this;this._observer&&(this._elements.forEach(function(e){t._observer.unobserve(e)}),this._observer=null),this._elements=null,this._settings=null},load:function(t,e){z(t,this,e)},loadAll:function(){var t=this;this._elements.forEach(function(e){L(e,t)})}},t&&function(t,e){if(e)if(e.length)for(var n,o=0;n=e[o];o+=1)u(t,n);else u(t,e)}(N,window.lazyLoadOptions),N});
+lazyLoader = {init: function(e) {}};</script><meta property="og:image" content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/logos_silicon/france.png" />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/fonts/Lato/Lato-Black.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/fonts/OpenSans/OpenSans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/fonts/OpenSans/OpenSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/fonts/OpenSansCondensed/OpenSansCondensed-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<meta name="robots" content="index, follow">
+	<script type="text/javascript">
+		(function ($) {
+			$(window).load(function() {
+				AdBlocker = (function () {
+					USE_ADBLOCK = null;
+					function kamino_detect_adblock(){
+						var detect = 0;
+						if( $('.dfp_ad').find('iframe').length == 0 ){
+							detect = 1;
+						}
+
+						if(detect == 1){ USE_ADBLOCK = true; }
+						else{ USE_ADBLOCK = false; }
+
+						return USE_ADBLOCK;
+					}
+					return kamino_detect_adblock();
+				})();
+			});
+		}(jQuery));
+	</script>
+					<script>
+					window.dataLayer = window.dataLayer || [];
+					dataLayer.push({
+						'page': {
+							'publicationDate': undefined,
+							'author': undefined,
+							'tagContent': undefined,
+							'format': undefined,
+							'canonicalSite': undefined,
+							'parentPage': undefined,
+							'childPage': undefined,
+							'companyId': undefined,
+							'contentId': undefined,
+							'templatePage': 'others'						},
+						'user': {
+							'userProfile': 'anonymous'						}
+					});
+				</script>
+							<!-- Google Tag Manager -->
+			<script>
+				(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WH9J3VR');
+			</script>
+			<!-- End Google Tag Manager -->
+				<script type='text/javascript'>      
+		var wamid = '3799'; /* Wam Account ID */
+		var typ = '1'; /* Event Type default 1 */
+		var Wvar = {
+			"content_id":0,
+			"profile":'anonymous',
+			"userid":undefined,
+			"job-description":undefined,
+			"industrial-sector":undefined,
+			"number-of-employees":undefined,
+			"format":undefined,
+			"tags":undefined,
+			"category":undefined,
+			"device":"desktop"};		
+		(function () {
+			var w = document.createElement("script");
+			w.type = "text/javascript";
+			w.src = document.location.protocol + "//cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd=" + new Date().getTime();           
+			w.async = true;
+			var body = document.getElementsByTagName('script')[0];
+			body.parentNode.insertBefore(w, body);
+		})();
+	</script>
+		<link rel="shortcut icon"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-16x16.png" sizes="16x16">
+	<link rel="apple-icon" sizes="57x57"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-57x57.png">
+	<link rel="apple-icon" sizes="114x114"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-114x114.png">
+	<link rel="apple-icon" sizes="72x72"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-72x72.png">
+	<link rel="apple-icon" sizes="144x144"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-144x144.png">
+	<link rel="apple-icon" sizes="60x60"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-60x60.png">
+	<link rel="apple-icon" sizes="120x120"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-120x120.png">
+	<link rel="apple-icon" sizes="76x76"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-76x76.png">
+	<link rel="apple-icon" sizes="152x152"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-152x152.png">
+	<link rel="apple-icon" sizes="180x180"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png"
+	      href="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/favicon-32x32.png" sizes="32x32">
+
+	<meta name="application-name" content="silicon.fr"/>
+	<meta name="msapplication-TileColor" content="#7272A0"/>
+	<meta name="msapplication-square70x70logo"
+	      content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-70x70.png"/>
+	<meta name="msapplication-square150x150logo"
+	      content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon--150x150.png"/>
+	<meta name="msapplication-wide310x150logo"
+	      content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-310x150.png"/>
+	<meta name="msapplication-square310x310logo"
+	      content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-310x310.png"/>
+
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "WebSite",
+			"publisher": {
+				"@type": "WebSite",
+				"name": "Silicon"
+			}
+		}
+	</script>
+	
+				<!-- Asynchronous GPT tag -->
+				<script type="text/javascript">
+					var googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+				</script>
+				<!-- END asynchronous GPT tag -->
+
+				<link rel="icon" href="https://www.silicon.fr/wp-content/uploads/2019/11/cropped-favicon-silicon-16x16-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.silicon.fr/wp-content/uploads/2019/11/cropped-favicon-silicon-16x16-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.silicon.fr/wp-content/uploads/2019/11/cropped-favicon-silicon-16x16-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.silicon.fr/wp-content/uploads/2019/11/cropped-favicon-silicon-16x16-270x270.png" />
+    
+
+    </head>
+
+<body class="archive tag tag-docker tag-11214 france silicon">
+
+<!-- Slider Editorial special -->
+
+<div class="only-for-desktop"></div>	<script type="text/javascript">
+		dfp_device_view = "mobile";
+		hutt_defineSlot = {};
+		hutt_defineSlot_slot_object = {};
+		hutt_defineSlot_slot_object_infinite_scroll = [];
+				hutt_original_page_id = "";
+		
+		//This will detect if we are on desktop or mobile device
+		var only_for_desktop = jQuery(".only-for-desktop").filter(":visible");
+		if(only_for_desktop.length > 0){
+			dfp_device_view = "desktop";
+		}
+
+		googletag.cmd.push(function() {
+googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().disableInitialLoad();googletag.enableServices();});
+		var refresh_slots = function(){
+
+			/*for (var k in hutt_defineSlot) {
+			 console.log('This size is currently on hutt_defineSlot array: '+ k);
+			 }*/
+
+			for (var k in hutt_defineSlot) {
+				var el = document.getElementById(k);
+
+				// We display automatically some out of page tags
+				// else in exemple the skin will be displayed only if we see the bottom of the page
+				if( hutt_defineSlot[k]['size'] == '[1,1]' || hutt_defineSlot[k]['size'] == '[2,2]' || hutt_defineSlot[k]['size'] == '[3,3]' || hutt_defineSlot[k]['size'] == '[4,4]' || hutt_defineSlot[k]['size'] == '[5,5]' || hutt_defineSlot[k]['size'] == '[6,6]'){
+					//console.log(k+': is now displayed (init)');
+					googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+					delete hutt_defineSlot[k];
+					continue;
+				}
+
+				if (isvisible(jQuery(el), true)) {
+					//console.log(k+': is now displayed (visible)');
+					googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+					delete hutt_defineSlot[k];
+					continue;
+				}
+			}
+		};
+
+		// allow us to display ads when API is ready.
+		var display_ads = function() {
+            var gads = document.createElement("script");
+            gads.async = true;
+            gads.type = "text/javascript";
+            gads.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+            var node = document.getElementsByTagName("script")[0];
+            node.parentNode.insertBefore(gads, node);
+                        
+			googletag.cmd.push(function () {
+
+				refresh_slots();
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 200);
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 1500);
+
+				setTimeout(function(){
+					refresh_slots();
+				}, 2500);
+
+				var locked = false;
+				var win = jQuery(window);
+				win.scroll(function(event) {
+					if(locked || hutt_defineSlot === null || hutt_defineSlot === undefined){
+						return;
+					}
+					//console.log('scroll');
+					locked = true;
+					for (var k in hutt_defineSlot) {
+						var el = document.getElementById(k);
+						if (isvisible(jQuery(el), true)) {
+							//console.log(k+': is now displayed (scroll)');
+							googletag.pubads().refresh([hutt_defineSlot_slot_object[k]['slot']], {changeCorrelator: false});
+							delete hutt_defineSlot[k];
+							continue;
+						}
+					}
+					locked = false;
+				});
+
+			});
+		}
+			</script>
+	<script type="text/javascript" id="DESKTOP_SKIN-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_SKIN-0");var scr = document.getElementById("DESKTOP_SKIN-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_SKIN-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_SKIN-0 desktop");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[1, 1], "div-gpt-ad-DESKTOP_SKIN-0").setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[1, 1]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_SKIN-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_SKIN-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SKIN-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SKIN-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_SKIN-0");});}</script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header role="banner">
+    <div class="bandeau-abo" style="width: 100%;height: 40px;
+    background-color: #2a30d7;display: block;">
+        <div class="wrap-contenus" style="position: relative;">
+            <p style="line-height: 40px;text-align: center;color: #000000;font-weight: 600;">
+                <a href="https://inscription.silicon.fr/profile/new-profile-1.php?idPartner=magnum11&continue=https://www.silicon.fr/abonnements&continue_label=Silicon&utm_source=magnum11" style="color: #ffffff;">
+                        Pendant le confinement, profitez des magazines numériques <span style="font-weight:400;"></span> en libre accès&nbsp;!
+                    </a>
+                    <span>&nbsp;| </span><a class="abo" style="color: #000" href="https://inscription.silicon.fr/profile/new-profile-1.php?idPartner=magnum11&continue=https://www.silicon.fr/abonnements&continue_label=Silicon&utm_source=kamino-magazine"> J'en profite ! 
+                </a>
+            </p>
+         </div>
+    </div>
+    <div id="primary-bar" class=" titlewording ">
+        <div class="wrapper clearfix">
+                                <div class="btn-menu-mobile"><a href="#"></a></div>
+                    <ul id="menu-menu-right-v2" class="menu-mobile nav-menus"><li id="menu-item-334884" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334884"><a href="https://www.silicon.fr/actualites/cloud">Cloud</a></li>
+<li id="menu-item-334885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334885"><a href="/tag/blockchain">Blockchain</a></li>
+<li id="menu-item-334886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334886"><a href="https://www.silicon.fr/actualites/security">Cybersécurité</a></li>
+<li id="menu-item-334887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334887"><a href="https://www.silicon.fr/actualites/mobility">Télécom/Mobilité</a></li>
+<li id="menu-item-335032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335032"><a href="https://www.silicon.fr/actualites/workspace">Workplace</a></li>
+<li id="menu-item-334889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334889"><a href="https://www.silicon.fr/actualites/software">Logiciels</a></li>
+<li id="menu-item-334890" class="marketingLink menu-item menu-item-type-custom menu-item-object-custom menu-item-334890"><a href="https://livreblanc.silicon.fr/">Livres Blancs</a></li>
+<li id="menu-item-334891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334891"><a href="/dossiers">Dossiers</a></li>
+<li id="menu-item-334893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334893"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-348773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348773"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
+	<li id="menu-item-350992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350992"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
+	<li id="menu-item-348262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348262"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
+	<li id="menu-item-348772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348772"><a href="/hub/20ans">Hub Silicon 20 ans</a></li>
+	<li id="menu-item-350278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350278"><a href="https://www.silicon.fr/webinar/cybersecurite">La journée de la Cybersécurité</a></li>
+</ul>
+</li>
+<li id="menu-item-334894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334894"><a href="/avis-expert">Avis d&rsquo;experts</a></li>
+<li id="menu-item-347139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347139"><a href="/hub/20ans">Silicon 20 ans</a></li>
+<li id="menu-item-334895" class="subMenuTitle menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334895"><a href="#">insight center</a>
+<ul class="sub-menu">
+	<li id="menu-item-334896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334896"><a href="/hub/ibm-cloud">HUB IBM CLOUD</a></li>
+	<li id="menu-item-334897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334897"><a href="/hub/colt-hub">Hub Colt</a></li>
+	<li id="menu-item-338309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338309"><a href="/hub/logmein">Hub LogMeIn</a></li>
+	<li id="menu-item-339653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-339653"><a href="/hub/ibexa">Hub ibexa</a></li>
+	<li id="menu-item-342065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-342065"><a href="https://www.silicon.fr/hub/CFI">HUB CFI HP</a></li>
+	<li id="menu-item-346090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346090"><a href="/hub/verizon">Hub Verizon</a></li>
+	<li id="menu-item-346355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346355"><a href="/hub/red-hat">Hub Red Hat</a></li>
+	<li id="menu-item-347429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347429"><a href="/hub/intel/articles-intel">Hub Intel</a></li>
+</ul>
+</li>
+<li id="menu-item-338045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338045"><a href="/webinar">Webinars</a></li>
+</ul>		<div class="site-title has_tagline ">
+								<a href="https://www.silicon.fr" title="Silicon" rel="home">
+						<img src="https://www.silicon.fr/wp-content/themes/kamino/assets/images/logos_silicon/france.png" alt="Silicon">
+					</a>
+							                <h1 class="tagline"> INSIGHTS FOR IT PROFESSIONALS</h1>
+            		</div>
+	            <div class="top-menu">
+                <ul id="menu-top" class="nav-menus"><li id="menu-item-348263" class="hub-webinar menu-item menu-item-type-custom menu-item-object-custom menu-item-348263"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
+<li id="menu-item-97217" class="follow menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-97217"><a href="#">Suivez-nous</a>
+<ul class="sub-menu">
+	<li id="menu-item-97235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97235"><a target="_blank" rel="nofollow" href="https://www.facebook.com/pages/Siliconfr/137530299596488">Facebook</a></li>
+	<li id="menu-item-97236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97236"><a target="_blank" rel="nofollow" href="https://www.twitter.com/frsilicon">Twitter</a></li>
+	<li id="menu-item-97239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97239"><a target="_blank" rel="nofollow" href="https://itunes.apple.com/app/silicon.fr/id527985600?mt=8">IOS App</a></li>
+	<li id="menu-item-97240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97240"><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=org.com.siliconfr">Android App</a></li>
+	<li id="menu-item-97243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97243"><a target="_blank" rel="nofollow" href="/feed">Flux RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-97218" class="newsletter menu-item menu-item-type-custom menu-item-object-custom menu-item-97218"><a rel="nofollow" href="#">Newsletters</a></li>
+<li id="menu-item-97219" class="connect menu-item menu-item-type-custom menu-item-object-custom menu-item-97219"><a rel="nofollow" href="#">Connectez-vous</a></li>
+<li id="menu-item-336780" class="subscription-popin__button menu-item menu-item-type-custom menu-item-object-custom menu-item-336780"><a href="#">Je m&rsquo;abonne</a></li>
+</ul>            </div>
+            
+			<div id="Subscription-popin" class="modal-subscription-popin">
+				<div class="subscription-popin">
+											<img class="lazy-load " data-src="https://www.silicon.fr/wp-content/uploads/2020/09/couv-silicon.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/09/couv-silicon.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="" alt="">
+										
+					<div class="subscription-content">
+						<div class="subscription-item__over">
+							<div class="subscription-item__over-icon">
+								<span class="icon-edition"></span>
+							</div>
+							<div class="subscription-item__over-label">Edition Papier</div>
+						</div>
+						<!-- <div class="subscription-item__over">
+							<div class="subscription-item__over-icon">
+								<span class="icon-devices"></span>
+							</div>
+							<div class="subscription-item__over-label">Magazine numérique</div>
+						</div> -->
+						<div class="subscription-item__over">
+							<a href="//boutique.netmedia.group/common/categories/34" class="subscription__over-button" target="_blank">Je m'abonne</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		            <div class="search-button">
+    <form role="search" class="searchSubmitForm search-form" method="get"
+          action="https://www.silicon.fr/">
+        <label>
+            <span class="screen-reader-text">Search for:</span>
+            <input type="search" class="search-field"
+                   placeholder=""
+                   value="" name="s"
+                   title="Rechercher&nbsp;:"/>
+            <div class="icon-search"></div>
+        </label>
+
+        <input type="submit" class="search-submit" value="Rechercher"/>
+    </form>
+
+    </div>
+        </div>
+    </div>
+
+    <nav id="secondary-bar">
+        <div class="wrapper clearfix">
+            <ul id="menu-menu-left-v2" class="left nav-menus"><li id="menu-item-334881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334881"><a href="#">Menu</a>
+<ul class="sub-menu">
+	<li id="menu-item-334882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334882"><a href="/">Articles</a>
+	<ul class="sub-menu">
+		<li id="menu-item-334883" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-334883"><a href="https://www.silicon.fr/actualites/cloud">Cloud</a>
+		<ul class="sub-menu">
+			<li id="menu-item-334899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334899"><a href="https://www.silicon.fr/actualites/cloud/datacenter">Datacenters</a></li>
+			<li id="menu-item-334900" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334900"><a href="https://www.silicon.fr/actualites/cloud/iaas">IAAS</a></li>
+			<li id="menu-item-334901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334901"><a href="https://www.silicon.fr/actualites/cloud/cloud-management">Orchestration</a></li>
+			<li id="menu-item-334902" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334902"><a href="https://www.silicon.fr/actualites/cloud/paas">PAAS</a></li>
+			<li id="menu-item-334903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334903"><a href="https://www.silicon.fr/actualites/cloud/server">Serveurs</a></li>
+			<li id="menu-item-334904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334904"><a href="https://www.silicon.fr/actualites/cloud/virtualization">Virtualisation</a></li>
+		</ul>
+</li>
+		<li id="menu-item-334905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-334905"><a href="https://www.silicon.fr/actualites/data-storage">Data &#038; Stockage</a>
+		<ul class="sub-menu">
+			<li id="menu-item-334906" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334906"><a href="https://www.silicon.fr/actualites/data-storage/database">Bases de données</a></li>
+			<li id="menu-item-334907" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334907"><a href="https://www.silicon.fr/actualites/data-storage/bigdata">Big Data</a></li>
+			<li id="menu-item-334908" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334908"><a href="https://www.silicon.fr/actualites/data-storage/business-intelligence">Business Intelligence</a></li>
+			<li id="menu-item-334909" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334909"><a href="https://www.silicon.fr/actualites/data-storage/dataviz">Dataviz</a></li>
+			<li id="menu-item-334910" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334910"><a href="https://www.silicon.fr/actualites/data-storage/storage">Stockage</a></li>
+		</ul>
+</li>
+		<li id="menu-item-334911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334911"><a href="/tag/iot">IoT</a></li>
+		<li id="menu-item-334912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334912"><a href="https://www.silicon.fr/actualites/software/erp-suites">ERP</a></li>
+		<li id="menu-item-334913" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334913"><a href="https://www.silicon.fr/actualites/software/open-source">Open Source</a></li>
+		<li id="menu-item-334914" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334914"><a href="https://www.silicon.fr/actualites/projects/cio">DSI</a></li>
+		<li id="menu-item-334915" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334915"><a href="https://www.silicon.fr/actualites/projects/service-provider">SSII</a></li>
+		<li id="menu-item-334916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334916"><a href="https://www.silicon.fr/actualites/e-regulation/legal">Legislation</a></li>
+		<li id="menu-item-334917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334917"><a href="https://www.silicon.fr/actualites/security">Cybersécurité</a></li>
+	</ul>
+</li>
+	<li id="menu-item-348255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348255"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
+	<li id="menu-item-334918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334918"><a href="//livreblanc.silicon.fr/">Livres Blancs</a></li>
+	<li id="menu-item-334920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334920"><a href="#">Events</a>
+	<ul class="sub-menu">
+		<li id="menu-item-348770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348770"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
+		<li id="menu-item-350993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350993"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
+		<li id="menu-item-334923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334923"><a href="https://www.silicon.fr/webinar/cybersecurite">Hub Cyber-sécurité</a></li>
+		<li id="menu-item-348254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348254"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
+	</ul>
+</li>
+	<li id="menu-item-334921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334921"><a href="/avis-expert">avis d&rsquo;experts</a></li>
+	<li id="menu-item-334930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334930"><a href="#">Insight center</a>
+	<ul class="sub-menu">
+		<li id="menu-item-340758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340758"><a href="/hub/ibm-cloud">HUB IBM CLOUD</a></li>
+		<li id="menu-item-340759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340759"><a href="/hub/colt-hub">Hub Colt</a></li>
+		<li id="menu-item-340760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340760"><a href="/hub/logmein">Hub LogMeIn</a></li>
+		<li id="menu-item-340761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340761"><a href="/hub/ibexa">Hub ibexa</a></li>
+		<li id="menu-item-342068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-342068"><a href="https://www.silicon.fr/hub/CFI">Hub CFI HP</a></li>
+		<li id="menu-item-346089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346089"><a href="/hub/verizon">Hub Verizon</a></li>
+		<li id="menu-item-346356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346356"><a href="/hub/red-hat">Hub Red Hat</a></li>
+		<li id="menu-item-334933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334933"><a href="#">Et si votre transformation digitale passait d’abord par un ERP Cloud ?</a></li>
+		<li id="menu-item-334934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334934"><a href="#">Les solutions innovantes de Huawei Enterprise</a></li>
+		<li id="menu-item-347428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347428"><a href="/hub/intel/articles-intel">Hub Intel</a></li>
+	</ul>
+</li>
+	<li id="menu-item-338051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338051"><a href="/webinar">Webinars</a></li>
+</ul>
+</li>
+</ul>            <ul id="menu-menu-right-v2-1" class="right nav-menus"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334884"><a href="https://www.silicon.fr/actualites/cloud">Cloud</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334885"><a href="/tag/blockchain">Blockchain</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334886"><a href="https://www.silicon.fr/actualites/security">Cybersécurité</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334887"><a href="https://www.silicon.fr/actualites/mobility">Télécom/Mobilité</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-335032"><a href="https://www.silicon.fr/actualites/workspace">Workplace</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334889"><a href="https://www.silicon.fr/actualites/software">Logiciels</a></li>
+<li class="marketingLink menu-item menu-item-type-custom menu-item-object-custom menu-item-334890"><a href="https://livreblanc.silicon.fr/">Livres Blancs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334891"><a href="/dossiers">Dossiers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334893"><a href="#">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348773"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350992"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348262"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348772"><a href="/hub/20ans">Hub Silicon 20 ans</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350278"><a href="https://www.silicon.fr/webinar/cybersecurite">La journée de la Cybersécurité</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334894"><a href="/avis-expert">Avis d&rsquo;experts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347139"><a href="/hub/20ans">Silicon 20 ans</a></li>
+<li class="subMenuTitle menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334895"><a href="#">insight center</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334896"><a href="/hub/ibm-cloud">HUB IBM CLOUD</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334897"><a href="/hub/colt-hub">Hub Colt</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338309"><a href="/hub/logmein">Hub LogMeIn</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-339653"><a href="/hub/ibexa">Hub ibexa</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-342065"><a href="https://www.silicon.fr/hub/CFI">HUB CFI HP</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346090"><a href="/hub/verizon">Hub Verizon</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-346355"><a href="/hub/red-hat">Hub Red Hat</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347429"><a href="/hub/intel/articles-intel">Hub Intel</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-338045"><a href="/webinar">Webinars</a></li>
+</ul>
+            <div class="mobileRightNav">
+                <div class="search-button">
+    <form role="search" class="searchSubmitForm search-form" method="get"
+          action="https://www.silicon.fr/">
+        <label>
+            <span class="screen-reader-text">Search for:</span>
+            <input type="search" class="search-field"
+                   placeholder=""
+                   value="" name="s"
+                   title="Rechercher&nbsp;:"/>
+            <div class="icon-search"></div>
+        </label>
+
+        <input type="submit" class="search-submit" value="Rechercher"/>
+    </form>
+
+    </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<div id="page" class="hfeed site"  style="padding-top: 190px;" >
+            <div id="main" class="wrapper clearfix">
+            <div class="infinite-container">
+<script type="text/javascript" id="MOBILE_BANNER-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:MOBILE_BANNER-1");var scr = document.getElementById("MOBILE_BANNER-1");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_BANNER-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_BANNER-1 mobile");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[320, 50], [300, 50], [300, 100]], "div-gpt-ad-MOBILE_BANNER-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[320, 50], [300, 50], [300, 100]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-1"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-1"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_BANNER-1");});}</script><script type="text/javascript" id="DESKTOP_MEGA-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_MEGA-1");var scr = document.getElementById("DESKTOP_MEGA-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MEGA-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MEGA-1 desktop");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270], [5,5]], "div-gpt-ad-DESKTOP_MEGA-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270], [5,5]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MEGA-1");});}</script><div id="infinite-scroll-marker-start" style="display: none;"></div>
+
+<section id="content" class="site-content article" role="main">
+
+	
+<header class="archive-header">
+
+<h1 class="archive-title">Actualités docker</h1>
+<div class="taxonomy-description"></div>
+
+</header><!-- .archive-header -->
+
+
+
+	<div class="grid-684">
+		<p id="breadcrumbs"><span><span><a href="https://www.silicon.fr/" >Accueil</a></span></p>
+			<article id="post-355265" class="post-355265 post type-post status-publish format-standard has-post-thumbnail hentry category-evenements tag-docker tag-free-mobile tag-kubernetes">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/silicon-20-ans-chrono-it-2012-2015-free-mobile-microsoft-nokia-et-docker-kubernetes-355265.html" title="{ SILICON – 20 ANS } – Chrono IT 2012-2015 : Free Mobile, Microsoft-Nokia et Docker-Kubernetes"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Netscape Chrome navigateurs" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-333x250.png 333w, https://www.silicon.fr/wp-content/uploads/2020/12/Silicon5_Couve_958x1266-600x450.png 600w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/evenements" title = "Actualités  Événements" >Événements </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/silicon-20-ans-chrono-it-2012-2015-free-mobile-microsoft-nokia-et-docker-kubernetes-355265.html"
+                   title="{ SILICON – 20 ANS } – Chrono IT 2012-2015 : Free Mobile, Microsoft-Nokia et Docker-Kubernetes"
+                   rel="bookmark">{ SILICON – 20 ANS } – Chrono IT 2012-2015 : Free Mobile, Microsoft-Nokia et Docker-Kubernetes</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Quelles sont vos madeleines (de Proust) technos ? A l&rsquo;occasion de son 20ème anniversaire, Silicon par­ta­ge les siennes avec vous. Aujourd&rsquo;hui : les années 2012-2015.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-352905" class="post-352905 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-cloud-management tag-docker tag-kubernetes">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/kubernetes-distances-docker-352905.html" title="Kubernetes prend ses distances avec Docker"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Docker Kubernetes support" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-370x279.png 370w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-1024x773.png 1024w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-768x580.png 768w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-333x250.png 333w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support-600x450.png 600w, https://www.silicon.fr/wp-content/uploads/2020/12/Docker-Kubernetes-support.png 1492w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/kubernetes-distances-docker-352905.html"
+                   title="Kubernetes prend ses distances avec Docker"
+                   rel="bookmark">Kubernetes prend ses distances avec Docker</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Kubernetes commence à émettre des avertissements quant à l&rsquo;obsolescence prochaine du runtime Docker. Quelles conséquences ?</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-352280" class="post-352280 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-software tag-canonical tag-docker displayed_authors-la-redaction">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/canonical-lts-docker-image-portfolio-352280.html" title="Conteneurs : Canonical livre LTS Docker Image Portfolio"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2015/02/conteneurs-containers-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/canonical-lts-docker-image-portfolio-352280.html"
+                   title="Conteneurs : Canonical livre LTS Docker Image Portfolio"
+                   rel="bookmark">Conteneurs : Canonical livre LTS Docker Image Portfolio</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Canonical fournit sur Docker Hub un ensemble d&rsquo;images de conteneurs applicatifs sécurisés incluant jusqu&rsquo;à 10 ans de maintenance.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-350590" class="post-350590 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud tag-aws tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-hub-plafonne-oci-aws-350590.html" title="Docker Hub plafonné : l&rsquo;OCI pragmatique, AWS opportuniste"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Docker Hub AWS OCI" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-370x279.jpg 370w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-768x579.jpg 768w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI-600x450.jpg 600w, https://www.silicon.fr/wp-content/uploads/2020/11/Docker-Hub-AWS-OCI.jpg 1000w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-hub-plafonne-oci-aws-350590.html"
+                   title="Docker Hub plafonné : l&rsquo;OCI pragmatique, AWS opportuniste"
+                   rel="bookmark">Docker Hub plafonné : l&rsquo;OCI pragmatique, AWS opportuniste</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Quelles précautions prendre avec l&rsquo;open source ? L&rsquo;OCI appelle à y réfléchir à l&rsquo;heure où Docker Hub introduit des limites de bande passante. AWS promet quant à lui une offre alternative.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-337894" class="post-337894 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-iaas tag-aws-fargate tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/conteneurs-aws-docker-337894.html" title="Conteneurs : AWS prend de la distance avec Docker"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-768x577.jpg 768w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020-600x450.jpg 600w, https://www.silicon.fr/wp-content/uploads/2020/03/AWS-Summit-2020.jpg 884w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/conteneurs-aws-docker-337894.html"
+                   title="Conteneurs : AWS prend de la distance avec Docker"
+                   rel="bookmark">Conteneurs : AWS prend de la distance avec Docker</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Containerd remplace Docker Engine dans la version 1.4 d&rsquo;AWS Fargate, qui s&rsquo;ouvre par ailleurs aux applications stateful.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-335883" class="post-335883 post type-post status-publish format-standard has-post-thumbnail hentry category-devops category-projects tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/code-cloud-docker-developpeurs-335883.html" title="« Du code au cloud » : Docker se pose en pipeline pour les développeurs"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Docker" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-768x576.jpg 768w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-1024x769.jpg 1024w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque.jpg 1199w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/projects/devops" title = "Actualités  Développeurs" >Développeurs </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/code-cloud-docker-developpeurs-335883.html"
+                   title="« Du code au cloud » : Docker se pose en pipeline pour les développeurs"
+                   rel="bookmark">« Du code au cloud » : Docker se pose en pipeline pour les développeurs</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Docker publie sa roadmap et laisse entrevoir les changements qu&rsquo;impliquera le recentrage de sa stratégie sur les développeurs.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-334113" class="post-334113 expertadvice type-expertadvice status-publish has-post-thumbnail hentry category-cloud category-cloud-management tag-docker tag-kubernetes displayed_experts-hela-ben-farhat">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/avis-expert/orchestration-des-conteneurs-quels-cas-dusage-et-quelles-solutions" title="Orchestration des conteneurs : quels cas d’usage et quelles solutions ?"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2014/11/logiciel-développement-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/avis-expert/orchestration-des-conteneurs-quels-cas-dusage-et-quelles-solutions"
+                   title="Orchestration des conteneurs : quels cas d’usage et quelles solutions ?"
+                   rel="bookmark">Orchestration des conteneurs : quels cas d’usage et quelles solutions ?</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Le développement des applications conteneurisées impacte non seulement l’approche de conception de ses applications mais aussi la manière de les maintenir et gérer leur cycle de vie. Ainsi, on ne peut envisager une approche de conteneurisation sans adresser les aspects liés à l’orchestration des conteneurs.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-333056" class="post-333056 post type-post status-publish format-standard has-post-thumbnail hentry category-virus category-security tag-docker tag-libminer">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/libminer-malware-conteneurs-redis-333056.html" title="LibMiner : le malware qui infectait les conteneurs Redis"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="libminer" data-src="https://www.silicon.fr/wp-content/uploads/2020/01/libminer.jpg" data-srcset="" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/security/virus" title = "Actualités  Malwares" >Malwares </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/libminer-malware-conteneurs-redis-333056.html"
+                   title="LibMiner : le malware qui infectait les conteneurs Redis"
+                   rel="bookmark">LibMiner : le malware qui infectait les conteneurs Redis</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Qualys attire l&rsquo;attention sur LibMiner, un mineur de cryptomonnaie qui tire parti des conteneurs Redis mal sécurisés.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-326535" class="post-326535 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-cloud-management tag-aws tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/aws-firelens-amazon-ecs-fargate-326535.html" title="Cloud : AWS lance FireLens pour Amazon ECS et Fargate"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-370x278.png 370w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513-333x250.png 333w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-conteneur-©-Egorov-Artem-shutterstock-684x513.png 684w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/aws-firelens-amazon-ecs-fargate-326535.html"
+                   title="Cloud : AWS lance FireLens pour Amazon ECS et Fargate"
+                   rel="bookmark">Cloud : AWS lance FireLens pour Amazon ECS et Fargate</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>L&rsquo;outil de routage de logs FireLens pour Amazon ECS (Elastic Container Service) facilite leur acheminement vers d&rsquo;autres services AWS ou partenaires.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-326155" class="post-326155 post type-post status-publish format-standard has-post-thumbnail hentry category-components tag-docker tag-mirantis">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-entreprises-developpeurs-326155.html" title="Docker vend son activité entreprises pour se concentrer sur les développeurs"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Docker" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-768x576.jpg 768w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-1024x769.jpg 1024w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque.jpg 1199w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/workspace/components" title = "Actualités  Composants" >Composants </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-entreprises-developpeurs-326155.html"
+                   title="Docker vend son activité entreprises pour se concentrer sur les développeurs"
+                   rel="bookmark">Docker vend son activité entreprises pour se concentrer sur les développeurs</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Le portefeuille Docker Enterprise est cédé à Mirantis, fournisseur cloud B2B spécialiste OpenStack et Kubernetes.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-264781" class="post-264781 post type-post status-publish format-standard has-post-thumbnail hentry category-virus category-security tag-docker tag-graboid">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/graboid-ver-docker-264781.html" title="Graboid : un ver cryptomineur qui se propage via Docker"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="graboid" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2019/10/graboid-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2019/10/graboid-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-370x277.jpg 370w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-768x575.jpg 768w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2019/10/graboid.jpg 809w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/security/virus" title = "Actualités  Malwares" >Malwares </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/graboid-ver-docker-264781.html"
+                   title="Graboid : un ver cryptomineur qui se propage via Docker"
+                   rel="bookmark">Graboid : un ver cryptomineur qui se propage via Docker</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Palo Alto Networks attire l&rsquo;attention sur Graboid, ver cryptomineur qui se propage par l&rsquo;intermédiaire de conteneurs Docker.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-262357" class="post-262357 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-cloud-management tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-financement-fragile-262357.html" title="Docker en quête de financement : attention, fragile ?"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="Docker" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-768x576.jpg 768w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-1024x769.jpg 1024w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2019/10/docker-risque.jpg 1199w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-financement-fragile-262357.html"
+                   title="Docker en quête de financement : attention, fragile ?"
+                   rel="bookmark">Docker en quête de financement : attention, fragile ?</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Incertitudes renforcées sur l&rsquo;avenir de Docker : l&rsquo;entreprise s&rsquo;est mise en quête de fonds pour « continuer à mettre en œuvre [sa] stratégie ».</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-239487" class="post-239487 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-devops category-cio category-software category-projects tag-arm tag-conteneurs tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/conteneurs-docker-et-arm-scellent-une-alliance-strategique-239487.html" title="Conteneurs : Docker et Arm scellent une alliance stratégique"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2019/04/LT38UaT__400x400-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2019/04/LT38UaT__400x400-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2019/04/LT38UaT__400x400-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2019/04/LT38UaT__400x400-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2019/04/LT38UaT__400x400-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/conteneurs-docker-et-arm-scellent-une-alliance-strategique-239487.html"
+                   title="Conteneurs : Docker et Arm scellent une alliance stratégique"
+                   rel="bookmark">Conteneurs : Docker et Arm scellent une alliance stratégique</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Les développeurs Docker pourront créer leurs applications pour Arm avec leurs outils habituels et les déployer dans le cloud, le edge et l’IoT.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-228279" class="post-228279 expertadvice type-expertadvice status-publish has-post-thumbnail hentry category-cloud category-devops category-cloud-management category-paas category-projects tag-docker tag-kubernetes displayed_experts-datadog">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/avis-expert/8-tendances-fortes-de-lorchestration-des-conteneurs" title="8 tendances fortes de l’orchestration des conteneurs"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2018/03/shutterstock_141954208-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/avis-expert/8-tendances-fortes-de-lorchestration-des-conteneurs"
+                   title="8 tendances fortes de l’orchestration des conteneurs"
+                   rel="bookmark">8 tendances fortes de l’orchestration des conteneurs</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Le nouveau rapport de Datadog actualise les huit tendances fortes de l’orchestration des conteneurs. Kubernetes désormais offert par AWS, Azure et Google Cloud Platform (GCP) conserve une popularité dominante ; Fargate déjà utilisé dans AWS par 6% des entreprises.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-227213" class="post-227213 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-software category-open-source tag-cnab tag-docker tag-microsoft tag-open-source-2">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/cnab-microsoft-et-docker-collaborent-sur-un-nouveau-projet-open-source-227213.html" title="CNAB : Microsoft et Docker collaborent sur un nouveau projet open source"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-370x276.jpg 370w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2016/11/conteneurs.jpg 800w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/cnab-microsoft-et-docker-collaborent-sur-un-nouveau-projet-open-source-227213.html"
+                   title="CNAB : Microsoft et Docker collaborent sur un nouveau projet open source"
+                   rel="bookmark">CNAB : Microsoft et Docker collaborent sur un nouveau projet open source</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Microsoft et Docker lancent un nouveau projet commun open-source baptisé Cloud Native Application Bundle (CNAB).</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-221633" class="post-221633 expertadvice type-expertadvice status-publish has-post-thumbnail hentry category-cloud category-cio category-cloud-management category-projects category-security category-virtualization tag-avis-dexpert tag-docker tag-securite displayed_experts-nuno-ventura">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/avis-expert/securiser-docker-une-demarche-bien-specifique" title="Sécuriser Docker : une démarche bien spécifique"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2018/10/docker-kubernetes-684x513.jpg 684w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/avis-expert/securiser-docker-une-demarche-bien-specifique"
+                   title="Sécuriser Docker : une démarche bien spécifique"
+                   rel="bookmark">Sécuriser Docker : une démarche bien spécifique</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Incontestablement, Docker s’adresse à trois grands profils de clients : les early adopters, les utilisateurs qui découvrent cet environnement et ceux qui ne l’ont pas encore utilisé. Pour autant, quel que soit son niveau de maturité, la sécurité reste toujours un obstacle à franchir.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-211713" class="post-211713 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-cloud-management category-server category-virtualization tag-docker">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/dockercon-ce-quil-faut-retenir-de-ledition-2018-211713.html" title="DockerCon : ce qu&rsquo;il faut retenir de l&rsquo;édition 2018"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2018/06/docker-kubernetes-684x513.jpg 684w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/dockercon-ce-quil-faut-retenir-de-ledition-2018-211713.html"
+                   title="DockerCon : ce qu&rsquo;il faut retenir de l&rsquo;édition 2018"
+                   rel="bookmark">DockerCon : ce qu&rsquo;il faut retenir de l&rsquo;édition 2018</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Docker Enterprise Edition s’enrichit de fonctions d’administration axées sur les déploiements en environnements hybrides. Kubernetes est pris en charge.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-206929" class="post-206929 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-cloud-management tag-cloud-native-computing-foundation tag-containers tag-docker tag-kubernetes tag-proxy tag-swarm tag-ucp tag-upgrade">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/206929-206929.html" title="Architecture de conteneurs : Docker EE 2.0 se renforce avec Kubernetes"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-370x278.png 370w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2-333x250.png 333w, https://www.silicon.fr/wp-content/uploads/2018/04/unnamed-2.png 684w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/206929-206929.html"
+                   title="Architecture de conteneurs : Docker EE 2.0 se renforce avec Kubernetes"
+                   rel="bookmark">Architecture de conteneurs : Docker EE 2.0 se renforce avec Kubernetes</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Docker EE 2.0 prend en charge Kubernetes, l&rsquo;orchestrateur le plus utilisé du marché. Cette nouvelle mouture de la plate-forme de gestion de conteneurs constitue un virage stratégique pour la start-up.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-204943" class="post-204943 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-virtualization tag-container tag-docker tag-runtime tag-steve-singh">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/solomon-hykes-quitte-docker-la-societe-quil-a-fondee-204943.html" title="Solomon Hykes quitte Docker, la société qu’il a fondée"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2018/03/solomon-good-bye-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/solomon-hykes-quitte-docker-la-societe-quil-a-fondee-204943.html"
+                   title="Solomon Hykes quitte Docker, la société qu’il a fondée"
+                   rel="bookmark">Solomon Hykes quitte Docker, la société qu’il a fondée</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Après dix ans à la tête de la startup, l’entrepreneur franco-américain tire sa révérence.  Il se maintiendra au « board » de la startup valorisée 1,3 milliard de dollars.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-187543" class="post-187543 post type-post status-publish format-standard has-post-thumbnail hentry category-business-intelligence category-cloud category-data-storage category-networks-management category-carriers category-cloud-management category-networks tag-alphago tag-deepmind tag-docker tag-ibm tag-ibm-db2 tag-intelligence-artificielle tag-interoute tag-sd-wan tag-vdc tag-wan">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/telegrammes-alphago-zero-toujours-plus-fort-ibm-rejoint-docker-mta-interoute-virtualise-son-wan-187543.html" title="Télégrammes : AlphaGo Zero encore plus fort, IBM rejoint Docker MTA, Interoute virtualise son WAN"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-333x250.png 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/data-storage/business-intelligence" title = "Actualités  Business Intelligence" >Business Intelligence </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/telegrammes-alphago-zero-toujours-plus-fort-ibm-rejoint-docker-mta-interoute-virtualise-son-wan-187543.html"
+                   title="Télégrammes : AlphaGo Zero encore plus fort, IBM rejoint Docker MTA, Interoute virtualise son WAN"
+                   rel="bookmark">Télégrammes : AlphaGo Zero encore plus fort, IBM rejoint Docker MTA, Interoute virtualise son WAN</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Contrairement aux manifestations contre la réforme du code du travail, les télégrammes du soir ne s&rsquo;essoufflent pas. </p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-187237" class="post-187237 post type-post status-publish format-standard has-post-thumbnail hentry category-4g category-cloud category-components category-mobility category-carriers category-cloud-management category-workspace category-e-regulation category-networks category-surveillance tag-5g tag-arcep tag-conteneurs tag-docker tag-kubernetes tag-qualcomm tag-swarm">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/telegrammes-larcep-alerte-docker-se-plie-a-kubernetes-qualcomm-materialise-la-5g-187237.html" title="Télégrammes : L&rsquo;Arcep alerte, Docker se plie à Kubernetes, Qualcomm matérialise la 5G"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2014/12/revue-de-presse-333x250.png 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/mobility/4g" title = "Actualités  4G" >4G </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/telegrammes-larcep-alerte-docker-se-plie-a-kubernetes-qualcomm-materialise-la-5g-187237.html"
+                   title="Télégrammes : L&rsquo;Arcep alerte, Docker se plie à Kubernetes, Qualcomm matérialise la 5G"
+                   rel="bookmark">Télégrammes : L&rsquo;Arcep alerte, Docker se plie à Kubernetes, Qualcomm matérialise la 5G</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Les télégrammes du soir se réjouissent de la libération de Raqqa.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-184341" class="post-184341 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-devops category-cio category-cloud-management category-projects category-e-regulation tag-devops tag-docker tag-linkbynet tag-treeptik">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/treeptik-lynkbynet-docker-cloud-184341.html" title="Avec Treeptik, Linkbynet ajoute Docker à son expertise Cloud [MAJ]"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2016/09/LinkbyNet-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/treeptik-lynkbynet-docker-cloud-184341.html"
+                   title="Avec Treeptik, Linkbynet ajoute Docker à son expertise Cloud [MAJ]"
+                   rel="bookmark">Avec Treeptik, Linkbynet ajoute Docker à son expertise Cloud [MAJ]</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Lynkbynet vient d&rsquo;acquérir Treeptik, une start-up spécialisée dans les technologies Docker et DevOps. Le broker Cloud inaugure sa croissance externe.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-184241" class="post-184241 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-devops category-software category-open-source category-operating-system category-workspace category-projects category-virtualization tag-bashware tag-canonical tag-containers tag-conteneurs tag-docker tag-hyper-v tag-isolation tag-linux tag-mark-shuttleworth tag-microsoft tag-ubuntu tag-windows tag-windows-2000 tag-windows-8-app-store tag-windows-insider tag-wsl">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/windows-accueille-conteneurs-linux-184241.html" title="Windows accueille désormais les conteneurs Linux"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2017/09/Ubuntu-Windows-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/windows-accueille-conteneurs-linux-184241.html"
+                   title="Windows accueille désormais les conteneurs Linux"
+                   rel="bookmark">Windows accueille désormais les conteneurs Linux</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Les développeurs peuvent désormais exécuter leurs applications Linux Ubuntu sur Windows 10 et Windows Server, annonce Canonical.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-182853" class="post-182853 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-datacenter category-server category-virtualization tag-conteneur tag-docker tag-microsoft tag-microsoft-ignite-2017 tag-windows-defender tag-windows-server tag-windows-server-2016">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/windows-server-version-1709-elements-cles-182853.html" title="Windows Server version 1709 : les éléments clés à suivre"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="microsoft-windows-server-version-1709" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2017/08/microsoft-windows-server-version-1709-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/windows-server-version-1709-elements-cles-182853.html"
+                   title="Windows Server version 1709 : les éléments clés à suivre"
+                   rel="bookmark">Windows Server version 1709 : les éléments clés à suivre</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Microsoft prépare la réactualisation de Windows Server 2016 (version 1709) qui intègrera des fonctions renforcées pour les technologies de containers, de SDN et de sécurité. </p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-182425" class="post-182425 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-datacenter category-devops category-cio category-cloud-management category-security-management category-projects category-security category-server tag-docker tag-docker-edition-enterprise tag-ec12 tag-ibm tag-mainframe tag-mainframes tag-system-z">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-enterprise-supporte-les-mainframes-dibm-182425.html" title="Docker Enterprise supporte les mainframes d’IBM"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="IBM zEnterprise EC12 © IBM" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-120x90.jpeg" data-srcset="https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-120x90.jpeg 120w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-684x513.jpeg 684w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-440x330.jpeg 440w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-300x225.jpeg 300w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-422x315.jpeg 422w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-196x147.jpeg 196w, https://www.silicon.fr/wp-content/uploads/2012/08/IBM-zEnterprise-EC12-333x250.jpeg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-enterprise-supporte-les-mainframes-dibm-182425.html"
+                   title="Docker Enterprise supporte les mainframes d’IBM"
+                   rel="bookmark">Docker Enterprise supporte les mainframes d’IBM</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Poursuivant sa conquête des grands comptes, Docker a mis à jour sa solution Enterprise en supportant notamment les mainframes d’IBM.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-182261" class="post-182261 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-datacenter category-devops category-cio category-software-vendors category-software category-open-source category-projects category-virtualization tag-ben-golub tag-cloud-native-computing-foundation tag-docker tag-financement tag-goldman-sachs tag-levee-de-fonds tag-runtime tag-steve-singh">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-finalise-un-financement-de-75-millions-de-dollars-182261.html" title="Docker finalise un financement de 75 millions de dollars"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2015/08/argent-dollars-corruption-©-Rrraum-shutterstock-333x250.png 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-finalise-un-financement-de-75-millions-de-dollars-182261.html"
+                   title="Docker finalise un financement de 75 millions de dollars"
+                   rel="bookmark">Docker finalise un financement de 75 millions de dollars</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>La start-up Docker serait en phase de finalisation d’un financement de 75 millions de dollars pour notamment cibler les grands comptes. </p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-182115" class="post-182115 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-devops category-cio category-virus category-security-management category-projects category-security category-virtualization tag-conteneur tag-conteneurs tag-docker tag-http tag-rebinding-attaque tag-shadow-conteneur tag-tcp tag-windows">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/les-conteneurs-docker-une-planque-pour-les-malwares-182115.html" title="Les conteneurs Docker, une planque pour les malwares"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2015/03/conteneurs-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/les-conteneurs-docker-une-planque-pour-les-malwares-182115.html"
+                   title="Les conteneurs Docker, une planque pour les malwares"
+                   rel="bookmark">Les conteneurs Docker, une planque pour les malwares</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Des chercheurs ont trouvé une méthode pour cacher du code malveillant dans un conteneur et rendre la menace persistante. </p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-179789" class="post-179789 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-components category-datacenter category-cio category-iaas category-software category-carriers category-security-management category-workspace category-projects category-networks category-security category-server tag-alain-andreoli tag-amd tag-arista tag-aruba tag-docker tag-epyc tag-hp-meg-whitman tag-hpe tag-hpe-france tag-hpe-nimble-storage tag-hpe-simplivity tag-memristors tag-microcode tag-nimble-storage tag-proliant tag-proliant-gen10 tag-scality tag-simplivity tag-superdome">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/alain-andreoli-hpe-le-marche-des-serveurs-devient-bipolaire-nous-misons-sur-la-valeur-179789.html" title="Alain Andreoli , HPE : « Le marché des serveurs devient bipolaire, nous misons sur la valeur »"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2017/07/Alain-Andreoli-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/alain-andreoli-hpe-le-marche-des-serveurs-devient-bipolaire-nous-misons-sur-la-valeur-179789.html"
+                   title="Alain Andreoli , HPE : « Le marché des serveurs devient bipolaire, nous misons sur la valeur »"
+                   rel="bookmark">Alain Andreoli , HPE : « Le marché des serveurs devient bipolaire, nous misons sur la valeur »</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Alain Andreoli, vice-président de l’activité Datacenter chez HPE, donne sa vision sur la stratégie du constructeur dans le domaine des infrastructures. </p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-177589" class="post-177589 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-datacenter category-devops category-iaas category-software category-open-source category-projects category-server tag-alibaba tag-alibaba-cloud tag-ben-golub tag-chine tag-conteneurs tag-docker tag-docker-hub tag-steve-singh">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/docker-part-a-la-conquete-de-la-chine-177589.html" title="Docker part à la conquête de la Chine"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2017/06/docker-chine-333x250.jpg 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/docker-part-a-la-conquete-de-la-chine-177589.html"
+                   title="Docker part à la conquête de la Chine"
+                   rel="bookmark">Docker part à la conquête de la Chine</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Docker vient de lancer le premier registre public en Chine à destination des développeurs grâce au partenariat avec Alibaba Cloud.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article><article id="post-176569" class="post-176569 post type-post status-publish format-standard has-post-thumbnail hentry category-cloud category-devops category-software-vendors category-cloud-management category-projects tag-conteneur tag-coreos tag-deis tag-docker tag-draft tag-etcd tag-kubernetes tag-microsoft tag-tectonic">
+            <figure class="entry-thumbnail">
+            <a rel="follow" href="https://www.silicon.fr/avec-draft-microsoft-facilite-ladoption-de-kubernetes-176569.html" title="Avec Draft, Microsoft facilite l’adoption de Kubernetes"><img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-120x90.png" data-srcset="https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-120x90.png 120w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-684x513.png 684w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-440x330.png 440w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-300x225.png 300w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-422x315.png 422w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-196x147.png 196w, https://www.silicon.fr/wp-content/uploads/2016/02/docker-conteneur-©-Egorov-Artem-shutterstock-333x250.png 333w" /></a>        </figure>
+            <section>
+        <header class="entry-header">
+            <div class="categorie_title">
+		<a href="https://www.silicon.fr/actualites/cloud" title = "Actualités  Cloud" >Cloud </a> 
+		</div>            <h2 class="entry-title">
+                <a href="https://www.silicon.fr/avec-draft-microsoft-facilite-ladoption-de-kubernetes-176569.html"
+                   title="Avec Draft, Microsoft facilite l’adoption de Kubernetes"
+                   rel="bookmark">Avec Draft, Microsoft facilite l’adoption de Kubernetes</a>
+            </h2>
+
+            <div class="entry-content">
+                <p>Kubernetes a le vent en poupe et Microsoft veut aider les développeurs à le déployer. Pour cela, l’éditeur crée le service Draft.</p>
+            </div>
+                    </header>
+        <footer>
+                    </footer>
+    </section>
+</article>            <nav class="navigation paging-navigation" role="navigation">
+                <div class="pagination loop-pagination">
+                    <span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.silicon.fr/tag/docker/page/2">2</a>
+<a class="page-numbers" href="https://www.silicon.fr/tag/docker/page/3">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://www.silicon.fr/tag/docker/page/5">5</a>
+<a class="next page-numbers" href="https://www.silicon.fr/tag/docker/page/2">Page suivante</a>                                    </div><!-- .pagination -->
+            </nav><!-- .navigation -->
+            </div>
+<div class="grid-336">
+    <div class='side-wrap' style="min-height:700px">
+        <script type="text/javascript" id="DESKTOP_MPU-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_MPU-1");var scr = document.getElementById("DESKTOP_MPU-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MPU-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MPU-1 desktop");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[300, 250], [300, 600], [300, 90], [300, 1050]], "div-gpt-ad-DESKTOP_MPU-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[300, 250], [300, 600], [300, 90], [300, 1050]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MPU-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MPU-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MPU-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MPU-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MPU-1");});}</script>        
+    </div>
+    
+    
+    <script type="text/javascript">
+        (function ($) {
+
+            $(function() {
+                // Display well all MPU by modifying the margin top
+                // first MPU will be at top
+                // Last one in the bottom
+                // Middle in the middle
+                var wrapper = $('.grid-336')
+                , content = $('.grid-684')
+                , contentHeight = $(content).outerHeight(true) - 200
+                , adNumber = $(wrapper).find('.side-wrap').length
+                , sideWrapHeight = contentHeight / adNumber;
+
+                $('.side-wrap').css({'min-height' : sideWrapHeight});
+            });
+        }(jQuery));
+    </script>
+    	</div>
+</section><!-- #content -->
+
+<section id="kamino_listing_whitepapers_widget-4" class="whitepaper widget_kamino_listing_whitepapers_widget"><div class="widget-title"><a href="//livreblanc.silicon.fr">Les livres blancs à la une</a></div><div class="grid-1040"> <article id="topwhitepaper-"21757"><figure>
+                    <a href="https://livreblanc.silicon.fr/resource/une-nouvelle-architecture-dinfrastructure-hyperconvergee-desagregee" title="" rel="bookmark">
+                        <img width="67" class="lazy-load " data-src="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/Capture-120x90.png" data-srcset="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/Capture-120x90.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                    </a>
+                </figure>
+                
+        <section>
+                <header class="entry-header">
+                    <h2 class="entry-title">
+                        <a href="https://livreblanc.silicon.fr/resource/une-nouvelle-architecture-dinfrastructure-hyperconvergee-desagregee" title=""
+                           rel="bookmark">Une nouvelle architecture d'infrastructure hyperconvergée désagrégée</a>
+                    </h2>
+
+                    <div class="entry-content">
+                        <a href="https://livreblanc.silicon.fr/advertiser/jcd-hpe">JCD-HPE</a>
+                    </div>
+                </header>
+            </section>
+        </article> <article id="topwhitepaper-"21689"><figure>
+                    <a href="https://livreblanc.silicon.fr/resource/explications-et-avantages-de-la-facture-electronique" title="" rel="bookmark">
+                        <img width="67" class="lazy-load " data-src="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/nouvellecreaLivreblanc-120x90.jpg" data-srcset="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/nouvellecreaLivreblanc-120x90.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                    </a>
+                </figure>
+                
+        <section>
+                <header class="entry-header">
+                    <h2 class="entry-title">
+                        <a href="https://livreblanc.silicon.fr/resource/explications-et-avantages-de-la-facture-electronique" title=""
+                           rel="bookmark">Panorama de la facture électronique : grands principes, avantages, obligations légales.</a>
+                    </h2>
+
+                    <div class="entry-content">
+                        <a href="https://livreblanc.silicon.fr/advertiser/https-www-icdint-fr">ICD International.</a>
+                    </div>
+                </header>
+            </section>
+        </article> <article id="topwhitepaper-"21618"><figure>
+                    <a href="https://livreblanc.silicon.fr/resource/avis-dexperts-infrastructures-hybrides-une-solution-complexe-mais-pas-inaccessible" title="" rel="bookmark">
+                        <img width="67" class="lazy-load " data-src="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/iguane-a-120x90.png" data-srcset="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/iguane-a-120x90.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+                    </a>
+                </figure>
+                
+        <section>
+                <header class="entry-header">
+                    <h2 class="entry-title">
+                        <a href="https://livreblanc.silicon.fr/resource/avis-dexperts-infrastructures-hybrides-une-solution-complexe-mais-pas-inaccessible" title=""
+                           rel="bookmark">[Avis d'experts] Infrastructures hybrides: Une solution complexe mais pas inaccessible</a>
+                    </h2>
+
+                    <div class="entry-content">
+                        <a href="https://livreblanc.silicon.fr/advertiser/iguane-solutions">Iguane Solutions</a>
+                    </div>
+                </header>
+            </section>
+        </article></div><div class="more-post"><a href="https://livreblanc.silicon.fr">Plus de livres blancs</a></div></section><section id="kamino_listing_dossiers_widget-4" class="dossier-widget widget_kamino_listing_dossiers_widget"><div class="widget-title"><a href="https://www.silicon.fr/dossiers">Dossier</a></div><div class="grid-510">				<article id="post-355768" class="post-355768 dossier type-dossier status-publish has-post-thumbnail hentry category-cloud category-security-management category-security tag-casb tag-sase tag-waf displayed_authors-alain-clapaud">
+											<figure>
+							<a rel="nofollow" href="https://www.silicon.fr/dossiers/cloud-pourquoi-il-est-urgent-de-securiser-les-usages" title="Cloud : pourquoi il est urgent de sécuriser les usages">
+								<img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="cloud-securite-data" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-370x278.jpg 370w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data-600x450.jpg 600w, https://www.silicon.fr/wp-content/uploads/2020/02/cloud-securite-data.jpg 679w" />							</a>
+						</figure>
+										<section>
+					<header class="entry-header">
+						<h2 class="entry-title">
+							<a href="https://www.silicon.fr/dossiers/cloud-pourquoi-il-est-urgent-de-securiser-les-usages" title="Cloud : pourquoi il est urgent de sécuriser les usages" rel="bookmark">Cloud : pourquoi il est urgent de sécuriser les usages</a>
+						</h2> 
+						<div class="entry-content">
+							                            <p>Les usages du Cloud explosent dans les entreprises. Depuis les applications Saas jusqu’aux infrastructures hybrides les plus complexes, les services...</p>
+						</div> 
+					</header>
+					<footer><span class="author vcard">Alain Clapaud</span>, <span class="date"><time class="entry-date" datetime="2021-01-04T13:21:15+01:00" itemprop="datePublished">4 janvier 2021, 13:21</time></span></footer>
+					</section>
+				</article>
+								<article id="post-352016" class="post-352016 dossier type-dossier status-publish has-post-thumbnail hentry category-outsourcing category-security-management category-projects category-security tag-cybersoc displayed_authors-alain-clapaud">
+											<figure>
+							<a rel="nofollow" href="https://www.silicon.fr/dossiers/cybersecurite-pourquoi-lexternalisation-va-simposer" title="Cybersécurité : pourquoi l’externalisation va s’imposer">
+								<img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2016/06/SOC-OIV-333x250.jpg 333w" />							</a>
+						</figure>
+										<section>
+					<header class="entry-header">
+						<h2 class="entry-title">
+							<a href="https://www.silicon.fr/dossiers/cybersecurite-pourquoi-lexternalisation-va-simposer" title="Cybersécurité : pourquoi l’externalisation va s’imposer" rel="bookmark">Cybersécurité : pourquoi l’externalisation va s’imposer</a>
+						</h2> 
+						<div class="entry-content">
+							                            <p>Confier au moins en partie la sécurité du système d’information de l’entreprise est une tendance forte du marché. Complexité des...</p>
+						</div> 
+					</header>
+					<footer><span class="author vcard">Alain Clapaud</span>, <span class="date"><time class="entry-date" datetime="2020-12-01T16:10:33+01:00" itemprop="datePublished">1 décembre 2020, 16:10</time></span></footer>
+					</section>
+				</article>
+				</div><div class="grid-510 two">				<article id="post-348358" class="post-348358 dossier type-dossier status-publish has-post-thumbnail hentry category-collaboration-suites category-communication-unifiee category-software category-mobility category-networks category-voip tag-digital-workplace displayed_authors-xavier-biseul">
+											<figure>
+							<a rel="nofollow" href="https://www.silicon.fr/dossiers/digital-workplace-chantier-prioritaire-du-dsi" title="Digital Workplace : chantier prioritaire  du DSI">
+								<img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-370x279.jpg 370w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720-600x450.jpg 600w, https://www.silicon.fr/wp-content/uploads/2020/10/couverture_720.jpg 720w" />							</a>
+						</figure>
+										<section>
+					<header class="entry-header">
+						<h2 class="entry-title">
+							<a href="https://www.silicon.fr/dossiers/digital-workplace-chantier-prioritaire-du-dsi" title="Digital Workplace : chantier prioritaire  du DSI" rel="bookmark">Digital Workplace : chantier prioritaire  du DSI</a>
+						</h2> 
+						<div class="entry-content">
+							                            <p>Avec les contraintes imposées par la Covid-19, les entreprises doivent composer avec un ensemble disparate de solutions pour collaborer à...</p>
+						</div> 
+					</header>
+					<footer><span class="author vcard">Xavier Biseul</span>, <span class="date"><time class="entry-date" datetime="2020-10-06T13:59:50+02:00" itemprop="datePublished">6 octobre 2020, 13:59</time></span></footer>
+					</section>
+				</article>
+								<article id="post-347020" class="post-347020 dossier type-dossier status-publish has-post-thumbnail hentry category-cloud category-communication-unifiee category-mobility tag-communication-unifiee tag-ucaas displayed_authors-alain-clapaud">
+											<figure>
+							<a rel="nofollow" href="https://www.silicon.fr/dossiers/communications-unifiees-la-revolution-cloud" title="Communications unifiées : la révolution Cloud">
+								<img width="120" height="90" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="attachment-listing size-listing lazy-load  wp-post-image" alt="" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-120x90.jpg" data-srcset="https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-120x90.jpg 120w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-684x513.jpg 684w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-440x330.jpg 440w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-300x225.jpg 300w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-422x315.jpg 422w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-196x147.jpg 196w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-333x250.jpg 333w, https://www.silicon.fr/wp-content/uploads/2020/09/485139_micloud-flex_silicon-600x450.jpg 600w" />							</a>
+						</figure>
+										<section>
+					<header class="entry-header">
+						<h2 class="entry-title">
+							<a href="https://www.silicon.fr/dossiers/communications-unifiees-la-revolution-cloud" title="Communications unifiées : la révolution Cloud" rel="bookmark">Communications unifiées : la révolution Cloud</a>
+						</h2> 
+						<div class="entry-content">
+							                            <p>Perçue comme un outil d’amélioration de la collaboration et de l’efficacité des collaborateurs, cette brique IT s’impose comme la clé...</p>
+						</div> 
+					</header>
+					<footer><span class="author vcard">Alain Clapaud</span>, <span class="date"><time class="entry-date" datetime="2020-09-17T16:07:15+02:00" itemprop="datePublished">17 septembre 2020, 16:07</time></span></footer>
+					</section>
+				</article>
+				</div><div class="more-post"><a href="https://www.silicon.fr/dossiers">Plus de dossiers</a></div></section>
+<div id="infinite-scroll-marker-end" style="display: none;"></div>
+</div> <!-- .infinite-container -->
+<script type="text/javascript" id="MOBILE_BANNER-2">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:MOBILE_BANNER-2");var scr = document.getElementById("MOBILE_BANNER-2");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_BANNER-2");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_BANNER-2 mobile");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[320, 50], [300, 50]], "div-gpt-ad-MOBILE_BANNER-2").setTargeting("pos", 2).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[320, 50], [300, 50]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-2"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-2"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-2"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-2"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_BANNER-2");});}</script><script type="text/javascript" id="DESKTOP_MEGA-2">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_MEGA-2");var scr = document.getElementById("DESKTOP_MEGA-2");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MEGA-2");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MEGA-2 desktop");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270]], "div-gpt-ad-DESKTOP_MEGA-2").setTargeting("pos", 2).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-2"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-2"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-2"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-2"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MEGA-2");});}</script>    </div><!-- #main -->
+    
+
+            </div><!-- #page -->
+            
+            <footer id="footer" class="site-footer" role="contentinfo">
+                
+    <script type="text/javascript" defer="defer">
+
+        (function ($) {
+                var site_name = "silicon.fr",
+                    site_name = site_name.replace('itespresso', 'ITespresso'),
+                    site_name = site_name.replace('siliconnews', 'SiliconNews'),
+                    site_name = site_name.replace('siliconweek', 'SiliconWeek'),
+                    site_name = site_name.replace('silicon', 'Silicon'),
+                    site_name = site_name.replace('channelbiz', 'Channelbiz'),
+                    site_name = site_name.replace('techweekeurope', 'TechWeekEurope'),
+                    site_name = site_name.replace('zdnet', 'ZDNet'),
+                    cookie_site_name = 'ct_echo',
+                    display_message = false,
+                    domain = ".www.silicon.fr";
+
+                    display_message = true;
+                    var text = "Recevez les dernières nouvelles, analyses, fonctionnalités et interviews informatiques sur des sujets clés de l'industrie technologique, directement dans votre boîte de réception. Vous recevrez également d'autres ressources utiles telles que des emplois, des livres blancs et des téléchargements en plus de notre couverture d'experts. Inscrivez-vous gratuitement dès aujourd'hui et restez informé de tous les aspects de la révolution informatique.";
+
+                    // Creating the message
+                    var message = '<div class="glyphicon glyphicon-remove"></div>';
+                    message += '<div class="abl-overlay-message-title"> ' + "Inscrivez-vous gratuitement au Silicon FR" + ' </div>';
+                    message += '<div class="abl-overlay-message-content">';
+                    message += '<div class="abl-overlay-message-content-message">'+text+'</div>';
+                    message += '<div class="abl-overlay-message-newsletter">';
+                    message += '<div class="abl-overlay-message-newsletter-form">';
+                    message += '<input type="email" class="abl-overlay-message-newsletter-email" name="email"  placeholder="Adresse mail ">';
+                    message += '<button type="submit" class="abl-overlay-message-newsletter-button btn">' + "S'abonner" + '</button>';
+                    message += '<div class="abl-overlay-message-newsletter-result"></div>';
+                    message += '</div>';
+                    message += '</div>';
+                    message += '</div>';
+
+                    //Create cookie for Newsletter Message
+                    function setNewsletterMessageCookie(cname,cvalue) {
+                        var d = new Date();
+                        var time = d.getTime();
+                        time += 7 * 24 * 60 * 60 * 1000;
+                        d.setTime(time);
+                        var expires = "expires="+d.toUTCString();
+                        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    }
+
+                    function getNewsletterMessageCookie(cname) {
+                        var name = cname + "=";
+                        var decodedCookie = decodeURIComponent(document.cookie);
+                        var ca = decodedCookie.split(';');
+                        for(var i = 0; i < ca.length; i++) {
+                            var c = ca[i];
+                            while (c.charAt(0) == ' ') {
+                                c = c.substring(1);
+                            }
+                            if (c.indexOf(name) == 0) {
+                                return c.substring(name.length, c.length);
+                            }
+                        }
+                        return "";
+                    }
+                    
+                    if (!getNewsletterMessageCookie("NewsletterPopin")){
+
+                            var overlay = jQuery('<div id="nl-overlay"></div>');
+                            overlay.appendTo("body");
+
+                            var overlay_message = jQuery('<div class="abl-overlay-message">' + message + '</div>');
+                            overlay_message.appendTo("#nl-overlay");
+
+                            var overlay_bg = jQuery('<div class="abl-overlay-bg"> </div>');
+                            overlay_bg.appendTo("#nl-overlay");
+
+                    }
+
+                    // If user close the message
+                    $("#nl-overlay .glyphicon-remove, #nl-overlay .abl-overlay-bg").on("click", function() {
+
+                        setNewsletterMessageCookie("NewsletterPopin", "true");
+                        $("#nl-overlay").remove();
+                    });
+
+                    //form
+                    var reg_email = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                    var url_post = "https://inscription.silicon.fr" + '/profile/register-to-newsletter.php';
+                    var failure_field = "Remplissez le champ de votre adresse e-mail, merci!";
+                    var failure_form = "Désolé, votre adresse e-mail est invalide";
+                    var request_fail_msg = "Désolé, votre demande a échoué";
+
+                    $(".abl-overlay-message-newsletter-button.btn").click( function(){
+
+                        var input_email = $(".abl-overlay-message-newsletter-email").val();
+                        //check email
+                        if (input_email == "" || !input_email) {
+                            $( ".abl-overlay-message-newsletter-success" ).remove();
+                            $( ".abl-overlay-message-newsletter-failure" ).remove();
+                            $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + failure_field + '</div>' );
+                        }else if(!reg_email.test(input_email)){
+                            $( ".abl-overlay-message-newsletter-success" ).remove();
+                            $( ".abl-overlay-message-newsletter-failure" ).remove();
+                            $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + failure_form + '</div>' );
+                            $(".abl-overlay-message-newsletter-email").value = input_email;
+                        }
+                        else{
+
+                            var request = jQuery.ajax({
+                                url: url_post,
+                                method: "POST",
+                                data: { nid:"NULL", site: "Silicon UK", email: input_email, track: 'via-newsletter-popup/'+site_name, subscription_url: 'https://inscription.silicon.fr' },
+                                dataType: "json"
+                            });
+
+                            request.done(function( response ) {
+                                if( response ) {
+                                    if (response.status == true) {
+                                        var success_message = response.data;
+                                        $(".abl-overlay-message-newsletter-success").remove();
+                                        $(".abl-overlay-message-newsletter-failure").remove();
+                                        $(".abl-overlay-message-newsletter-result").append('<div class="abl-overlay-message-newsletter-success">' + success_message + '</div>');
+
+                                        $(".abl-overlay-message-content-message").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-login").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-email").css("display", "none");
+                                        $(".abl-overlay-message-newsletter-button").css("display", "none");
+
+                                        if (typeof _sdt == 'function') {
+
+                                            var push_data = {"site":{"name":"silicon.fr","domain":"www.silicon.fr","country":"france"},"page":"archive","type":"post_tag","slug":"docker","title":"docker"};
+                                            _sdt(
+                                                'push',
+                                                'newsletter_subscription',
+                                                push_data
+                                            );
+
+                                        }
+
+                                    } else {
+                                        var error_message = response.data;
+                                        $(".abl-overlay-message-newsletter-success").remove();
+                                        $(".abl-overlay-message-newsletter-failure").remove();
+                                        $(".abl-overlay-message-newsletter-result").append('<div class="abl-overlay-message-newsletter-failure">' + error_message + '</div>');
+                                    }
+                                }
+                            });
+
+                            request.fail(function( jqXHR, textStatus ) {
+                                $( ".abl-overlay-message-newsletter-success" ).remove();
+                                $( ".abl-overlay-message-newsletter-failure" ).remove();
+                                $( ".abl-overlay-message-newsletter-result" ).append( '<div class="abl-overlay-message-newsletter-failure">' + request_fail_msg + '</div>' );
+                            });
+
+                        };
+                    });
+        }(jQuery));
+    </script>
+
+			<div id="editorial-popin" class="fadeInUp" data-number-views = 30 data-timeout = 20>
+				<span id="close-popin">&times;</span>
+				<div class="wrapper">
+					<div class="content">
+						<span class="titel-editorial">Ne manquez pas cet article</span>
+						<div class="text-editorial"><span>Cybersécurité : pourquoi l’externalisation va s’imposer<span></div>
+						<a id="readEditorial" href="https://www.silicon.fr/dossiers/cybersecurite-pourquoi-lexternalisation-va-simposer?utm_source=slider-edito&utm_medium=site" class="btn-editorial">Lire</a>
+					</div>
+				</div>
+			</div>
+		            
+                <div class="wrapper">
+                    <aside id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-title">Services</div><div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-97262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97262"><a rel="nofollow" href="https://emploi.silicon.fr/">Emplois, jobs Informatique</a></li>
+<li id="menu-item-97226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97226"><a rel="nofollow" href="https://inscription.silicon.fr/profile/login.php?continue=http%3A%2F%2Fwww.silicon.fr%2F&#038;continue_label=Silicon">Votre compte</a></li>
+<li id="menu-item-97264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97264"><a rel="nofollow" href="/plan-du-site">Plan du site</a></li>
+<li id="menu-item-97229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97229"><a rel="nofollow" href="/adresse-ip">Quelle est mon adresse IP ?</a></li>
+</ul></div></aside><aside id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-title">Sites</div><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-97267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97267"><a rel="nofollow" href="https://livreblanc.silicon.fr/">Livres Blancs Informatiques</a></li>
+<li id="menu-item-97231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97231"><a rel="nofollow" href="https://telecharger.itespresso.fr/">Télécharger</a></li>
+<li id="menu-item-97269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97269"><a rel="nofollow" href="https://www.itespresso.fr">ITespresso</a></li>
+<li id="menu-item-97233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97233"><a rel="nofollow" href="https://www.channelbiz.fr">Channelbiz</a></li>
+<li id="menu-item-335988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335988"><a target="_blank" rel="noopener noreferrer" href="https://boutique.netmedia.group/common/categories/34">Silicon Magazine</a></li>
+</ul></div></aside><aside id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-title">Mentions légales</div><div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-97295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97295"><a href="https://www.silicon.fr/conditions-generales-dutilisation">Conditions Générales d&rsquo;Utilisation</a></li>
+<li id="menu-item-97297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97297"><a href="https://www.silicon.fr/politique-confidentialite-cookies">Politique de Confidentialité &#8211; Gestion des cookies</a></li>
+</ul></div></aside><aside id="nav_menu-6" class="widget widget_nav_menu"><div class="widget-title">Rester en contact</div><div class="menu-footer-4-container"><ul id="menu-footer-4" class="menu"><li id="menu-item-97291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97291"><a href="/services/contactez-la-redaction">Contactez la rédaction</a></li>
+<li id="menu-item-335715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335715"><a href="https://www.silicon.fr/services/contactez-la-technique">Contactez la technique</a></li>
+<li id="menu-item-97292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97292"><a href="/services/contactez-la-regie">Contactez la régie</a></li>
+<li id="menu-item-98334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98334"><a href="https://www.silicon.fr/services/contactez-service-etude">Contactez le service étude</a></li>
+<li id="menu-item-97290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97290"><a href="https://www.silicon.fr/services/proposition-de-partenariat">Proposition de partenariat</a></li>
+<li id="menu-item-97294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97294"><a href="/services/contact#annoncer">Annoncer sur Silicon.fr</a></li>
+</ul></div></aside><aside class="widget widget_text int"><div class="textwidget"><span class="titel-flags">NETMEDIAEUROPE : </span><ul><li class="br"><a href="//www.bitmag.com.br/">Brésil</a></li><li class="de"><a href="//www.silicon.de/">Allemagne</a></li><li class="fr"><a href="//www.silicon.fr/">France</a></li><li class="it"><a href="//www.silicon.it/">Italie</a></li></ul><ul><li class="pt"><a href="//www.bit.pt/">Portugal</a></li><li class="es"><a href="//www.silicon.es/">Espagne</a></li><li class="uk"><a href="//www.silicon.co.uk/">Royaume-Uni</a></li><li class="wo"><a href="//www.netmediaeurope.com/">Monde</a></li></ul><span class="top-page"><a id="back-top" href="">Top of the page</a></span></div></aside>                </div>
+                <div class="site-info">
+                NetMediaEurope &copy; Copyright 2021 Tous droits réservés. <a href="https://www.netmediaeurope.com" title="NetMediaEurope">A propos de NetMediaEurope</a>                </div>
+                <!-- .site-info -->
+            </footer><!-- #colophon -->
+            <!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.silicon.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2" defer="defer" ></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"https:\/\/www.silicon.fr\/wp\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"Les erreurs suivantes sont survenues:","text_name_invalid":"- Votre Nom est vide ou non-valide","text_email_invalid":"- Votre Email  est vide ou non-valide","text_remarks_invalid":"- Votre commentaire n'est pas valide","text_friend_names_empty":"- Nom(s) d'Amis(s) vide(s)","text_friend_name_invalid":"- Nom d'Ami vide ou non-valide: ","text_max_friend_names_allowed":"- Maximum 5 Noms d'Amis autoris\u00e9s","text_friend_emails_empty":"- Email(s) d'Ami(s) vide(s)","text_friend_email_invalid":"- Email d'Ami non valide:","text_max_friend_emails_allowed":"- Maximum 5 Emails d'Amis autoris\u00e9s","text_friends_tally":"- Le nombre de Nom(s) d'Ami(s) ne correspond pas au nombre d'Email(s) d'Ami(s)","text_image_verify_empty":"- Code anti-spam vide"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/wp-email/email-js.js?ver=2.68.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.silicon.fr\/wp\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.5'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdbRJsUAAAAACP4b8FEV_0kQGnFckwfYCLRaixm&#038;ver=3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdbRJsUAAAAACP4b8FEV_0kQGnFckwfYCLRaixm","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/js/waypoints/jquery.waypoints.min.js?ver=1_1.54.9-zABW_0.0.2-nypd'></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/js/waypoints/shortcuts/infinite.min.js?ver=1_1.54.9-zABW_0.0.2-nypd'></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+<script type="text/javascript" id="DESKTOP_PRE_HOME-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_PRE_HOME-1");var scr = document.getElementById("DESKTOP_PRE_HOME-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_PRE_HOME-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_PRE_HOME-1 desktop");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[2, 2], "div-gpt-ad-DESKTOP_PRE_HOME-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[2, 2]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_PRE_HOME-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_PRE_HOME-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_PRE_HOME-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_PRE_HOME-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_PRE_HOME-1");});}</script><script type="text/javascript" id="DESKTOP_FLASH_TRANS-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_FLASH_TRANS-0");var scr = document.getElementById("DESKTOP_FLASH_TRANS-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_FLASH_TRANS-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_FLASH_TRANS-0 desktop");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[5, 5], "div-gpt-ad-DESKTOP_FLASH_TRANS-0").setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[5, 5]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_FLASH_TRANS-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_FLASH_TRANS-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FLASH_TRANS-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FLASH_TRANS-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_FLASH_TRANS-0");});}</script><script type="text/javascript" id="DESKTOP_FOOTER-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_FOOTER-0");var scr = document.getElementById("DESKTOP_FOOTER-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_FOOTER-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_FOOTER-0 desktop");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[6, 6], "div-gpt-ad-DESKTOP_FOOTER-0").setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[6, 6]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_FOOTER-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_FOOTER-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FOOTER-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_FOOTER-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_FOOTER-0");});}</script><script type="text/javascript" id="DESKTOP_SITE_UNDER-0">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_SITE_UNDER-0");var scr = document.getElementById("DESKTOP_SITE_UNDER-0");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_SITE_UNDER-0");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_SITE_UNDER-0 desktop");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[3, 3], "div-gpt-ad-DESKTOP_SITE_UNDER-0").setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[3, 3]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_SITE_UNDER-0"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_SITE_UNDER-0"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SITE_UNDER-0"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_SITE_UNDER-0"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_SITE_UNDER-0");});}</script><script type="text/javascript" id="MOBILE_PRE_HOME-2">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:MOBILE_PRE_HOME-2");var scr = document.getElementById("MOBILE_PRE_HOME-2");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_PRE_HOME-2");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_PRE_HOME-2 mobile");slot_div.setAttribute("height", "0");var word = "";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[2, 2], "div-gpt-ad-MOBILE_PRE_HOME-2").setTargeting("pos", 2).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[2, 2]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_PRE_HOME-2"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_PRE_HOME-2"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_PRE_HOME-2"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_PRE_HOME-2"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_PRE_HOME-2");});}</script>        <!-- Webpage Tag 9931 / Silicon.fr -->
+        <script type="text/javascript">    
+            (function(){    
+                var myrtbHost = (("https:" == document.location.protocol) ? "https://lib." : "http://lib.");
+                var myrtbScript = document.createElement("script");
+                myrtbScript.type = "text/javascript";
+                myrtbScript.async = true;        
+                myrtbScript.src=myrtbHost+"selfcampaign.com/tag/9931_1063f48e983d95f1fece27debed6e4b7?async=1";
+                (document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(myrtbScript);    
+            })();
+        </script>
+        
+                <script type="text/javascript">
+
+                    (function ($) {
+                        var screenWidth = $(window).width();
+                        if(screenWidth < 751)
+                            return;
+                       // var selector = $('#div-gpt-ad-DESKTOP_MPU-1, #div-gpt-ad-DESKTOP_MPU-2, #div-gpt-ad-DESKTOP_MPU-3');
+                        var selector = $('#div-gpt-ad-DESKTOP_MPU-1');
+                        if(selector.length){
+                            $(selector).stickySidebar({
+                                wrapperSelector: '#content'
+                            });
+                        }
+
+                    }(jQuery));
+                </script>
+                <script type='text/javascript'> 
+            jQuery(document).ready(function (){
+                if( typeof LazyLoad !== 'undefined' ){
+                    var rw_lazyload = new LazyLoad({
+                        elements_selector: ".lazy-load",
+                        class_loaded:'lazy-loaded'
+                
+                    });
+                }
+            });
+
+        </script>            <!-- FOOTER END -->
+                        <script type="text/javascript" >
+            jQuery(document).ready(function () {
+                // ANW-3 : limiting characters title post editorial popin
+                jQuery("#editorial-popin .text-editorial").text(function(i, titel) {
+                        return (titel.length > 68) ? titel.substring(0, 68) + '..' : titel;
+                });
+
+                // scroll body to 0px on click
+                jQuery("#back-top").click(function () {
+                    jQuery('body,html').animate({
+                            scrollTop: 0
+                        }, 800);
+                        return false;
+                    });
+            });
+            </script>
+        </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: silicon.ig-1.net @ 2021-01-08 14:53:04 by W3 Total Cache
+-->

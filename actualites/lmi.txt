@@ -1,0 +1,1594 @@
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="verify-v1" content="JEWEAwu3H2WZFhofIkSSwReRLX3LKXx8vS893JY3xVw=" />
+
+<title>Docker : Toute l'Actualité du monde informatique sur Docker</title>
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:300,400,600,700" rel="stylesheet"> 
+<link href="/styles/normalize-min.css" rel="stylesheet">
+<link href="/styles/grille-min.css" rel="stylesheet">
+<link href="/styles/pictos-min.css" rel="stylesheet">
+<link href="/styles/template.css?v=9" rel="stylesheet">
+<link href="/styles/template-lg.css" rel="stylesheet">
+<link href="/styles/template-xl.css" rel="stylesheet">
+<link href="/styles/template-print.css" rel="stylesheet" media="print" />	
+
+<link rel="shortcut icon" href="https://www.lemondeinformatique.fr/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" href="https://www.lemondeinformatique.fr/favicon-16.ico" sizes="16x16">
+<link rel="icon" type="image/png" href="https://www.lemondeinformatique.fr/favicon-32.ico" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.lemondeinformatique.fr/favicon-96.ico" sizes="96x96">
+
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.lemondeinformatique.fr/apple-60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.lemondeinformatique.fr/apple-76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.lemondeinformatique.fr/apple-114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.lemondeinformatique.fr/apple-144.png">
+<meta name="msapplication-TileImage" content="https://www.lemondeinformatique.fr/apple-144.png">
+<meta name="msapplication-TileColor" content="#FFFFFF"> 
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+<script>
+
+    dataLayer = [{
+        'page': 'UNKNOW',
+        'themes' : 'NONE',
+        'sponsor' : 'UNKNOW'
+    }];
+
+    console.log('page: UNKNOW');
+    console.log('themes: NONE');
+    console.log('sponsor: UNKNOW');
+
+</script>
+
+    <script type="text/javascript">
+
+        $.ajax('https://www.lemondeinformatique.fr/tracking/adtech.php?id='+'UNKNOW'+'&ip='+'2306193239' ).done(function(data)
+        {
+            cookieVal = JSON.parse(data);
+            var now = new Date();
+            now.setTime(now.getTime() + 1209600000);
+            document.cookie = "adcomp="+cookieVal.company+";expires="+now.toGMTString()+";path=/";
+            dataLayer.push({'customer_company': cookieVal.company});
+            // cookieVal.themes
+        }).fail(function() {
+            var now = new Date();
+            now.setTime(now.getTime() + 172800000);
+            document.cookie = "adcomp=NONE;expires="+now.toGMTString()+";path=/";
+            dataLayer.push({'customer_company': 'NONE'});
+        });
+
+    </script>
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KJCQ767');</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+    var idsessionidg = "5374cfcce23995da3df3f34147facb1b";
+    var urlDestTrackIdg = "https://www.lemondeinformatique.fr/";
+</script>
+
+
+	<link rel="canonical" href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html" /><script type="text/javascript">
+/* Chargement des PUB Adtech */
+function loadPub(sectionNom)
+{
+	$.getJSON("https://www.lemondeinformatique.fr/ajax/recuperation-pub.php", {page: sectionNom}, function(data) {
+
+		$(".pub-Adtech").not( ".loaded" ).each(function(index, content) {
+
+			var attr = $(this).attr('id');
+
+			if (typeof attr === typeof undefined || attr === false)
+			{
+
+				var dimension 	= $(this).data('dimension');
+				var position 	= $(this).data('position');
+				var theme 		= $(this).data('theme');
+
+				if((typeof dimension === typeof undefined || dimension === false) || (typeof position === typeof undefined || position === false) ) return true;
+				if(typeof theme === typeof undefined || theme === false)	theme = 0;
+
+				if(	typeof data[sectionNom] === typeof undefined || data[sectionNom] === false ||
+					typeof data[sectionNom][theme] === typeof undefined || data[sectionNom][theme] === false ||
+					typeof data[sectionNom][theme][dimension] === typeof undefined || data[sectionNom][theme][dimension] === false ||
+					typeof data[sectionNom][theme][dimension][position] === typeof undefined || data[sectionNom][theme][dimension][position] === false
+				)
+				{
+					if(typeof data['divers_autre'] === typeof undefined || data['divers_autre'] === false ||
+						typeof data['divers_autre'][theme] === typeof undefined || data['divers_autre'][theme] === false ||
+						typeof data['divers_autre'][theme][dimension] === typeof undefined || data['divers_autre'][theme][dimension] === false ||
+						typeof data['divers_autre'][theme][dimension][position] === typeof undefined || data['divers_autre'][theme][dimension][position] === false)
+						return true;
+					else
+						var id 	= parseInt(data['divers_autre'][0][dimension][position]);
+				}
+				else
+					var id 	= parseInt(data[sectionNom][theme][dimension][position]);
+
+				var containerId 	= id+'-'+index+parseInt($(this).offset().top);
+
+				$(this).attr('id', containerId);
+
+                //console.log(containerId + ' : not-loaded');
+
+                $(this).addClass( "not-loaded" );
+				displayPub($(this));
+
+			}
+		});
+	});
+}
+
+function displayPub(pub)
+{
+    if(pub.length == 1) {
+        var firstPub = pub;
+        var positionPub = firstPub.offset();
+        var scrollTop = $(window).scrollTop();
+        var scrollBottom = scrollTop + window.innerHeight;
+        //console.log(firstPub.attr('id') + ' : ' + scrollTop + ' ' + scrollBottom + ' ' + positionPub.top);
+
+        if (positionPub.top <= scrollBottom && positionPub.top >= scrollTop) {
+
+            firstPub.removeClass("not-loaded");
+            firstPub.addClass("loaded");
+
+            //console.log(firstPub.attr('id') + ' : loaded');
+
+            var dimension = firstPub.data('dimension');
+            var containerId = firstPub.attr('id');
+            var id = parseInt(containerId.split('-')[0]);
+
+            ADTECH.config.placements[id] = {sizeid: dimension, params: {alias: '', target: '_blank'}};
+            ADTECH.config.placements[id].adContainerId = containerId;
+            ADTECH.getFinalConfigProperty(id, "gtsTime");
+
+            ADTECH.loadAd(id);
+        }
+    }
+}
+
+/*
+	Gestion des blocs qui restent fixe grace aux toboggans
+*/
+function loadToboggan()
+{
+	if(document.querySelector(".toboggan") != 'null')
+	{
+		if(window.innerWidth > 992)
+		{
+			window.onscroll = function()
+			{	
+				var screen_top = window.pageYOffset;
+				var toboggans = document.querySelectorAll('.toboggan');
+
+				[].forEach.call(toboggans, function(toboggan) {
+
+					var bloc 				= $('.bloc',toboggan);
+					var bloc_width	 		= $(bloc).outerWidth()
+					var bloc_height 		= $(bloc).outerHeight();
+					var position_top  		= getElemDistance(toboggan) - 20;	// toboggan top - 20px de marge
+					var toboggan_height 	= $(toboggan).height();
+					var position_bottom 	= position_top + toboggan_height - bloc_height; 
+
+					if((screen_top >= position_top) && (screen_top <= position_bottom) && $(bloc).hasClass("fixed-bloc") == false)
+					{
+						if($(bloc).hasClass("bottom") == true)	$(bloc).removeClass("bottom");
+						$(bloc).addClass("fixed-bloc");
+						$(bloc).css('width',bloc_width+'px');
+					}
+					else if(screen_top > position_bottom && $(bloc).hasClass("fixed-bloc") == true)
+					{
+						$(bloc).removeClass("fixed-bloc").addClass("bottom");
+					}
+					else if(screen_top < position_top && $(bloc).hasClass("fixed-bloc") == true)
+					{
+						$(bloc).removeClass("fixed-bloc");
+					}
+
+				});
+			}
+			//console.log(screen_top+' '+position_top+' '+position_bottom);
+		}
+		else
+		{
+
+		}
+	}
+}
+
+/* Calcul hauteur col droite et toboggan */
+function loadDimensionContentRightAndToboggan()
+{
+	$(".content > div").each(function(index, content) {
+		
+		var attr = $('.content-right',content).attr('style');
+		if (typeof attr === typeof undefined || attr === false)
+		{
+			if(window.innerWidth > 992)
+			{
+				var height = $(content).height();
+				$('.content-right',content).css("height",height+"px");
+
+				var blocs_height = 0;
+				var bloc_fix = 1;
+				var bloc_move = 0;
+
+				$(".content-right .bloc",content).each(function(index, bloc) {
+
+					if(! $(bloc).closest(".toboggan").length )
+					{
+						blocs_height = blocs_height + $(bloc).outerHeight();
+						bloc_fix = bloc_fix + 1;
+					}
+					else
+					{
+						bloc_move = bloc_move + 1;
+					}
+				});
+				var toboggan_height 	= ((height - blocs_height)/bloc_move) - (bloc_fix*40); // 40px de marge par bloc
+				$('.content-right .toboggan',content).css("height",toboggan_height+"px");
+			}
+			else
+			{
+				$('.content-right',content).css("height","auto");
+				$('.content-right .toboggan',content).css("height","auto");
+			}
+		}
+	});
+}
+
+var getElemDistance = function ( elem ) {
+	var location = 0;
+	if (elem.offsetParent) {
+		do {
+			location += elem.offsetTop;
+			elem = elem.offsetParent;
+		} while (elem);
+	}
+	return location >= 0 ? location : 0;
+};
+
+
+/* RECHERCHE */
+function lookup(inputString)
+{
+	var suggestions;
+	var timer;
+
+	if(inputString.length <= 2){
+
+		$('#suggestContainer').fadeOut();
+	}
+
+	if(inputString.length > 2){
+
+		$.post("https://www.lemondeinformatique.fr/recherche/requeteElasticHeader2.php", {queryString: inputString}, function(data) {
+
+			data = JSON.parse(data);
+
+			$('#suggestHeaderAllSearch').html(data.all);
+			$('#headerThemeSearch').html(data.theme);
+			$('#headerSponsorSearch').html(data.sponsor);
+			$('#suggestContainer').fadeIn();
+
+			if(data.sponsor == '')
+			{
+				$('#title-sponsor').hide();
+			}
+				
+		});
+	}
+}
+/*
+	Gestion du sondage express
+*/
+function affiche_sondage_express(div,reponse)
+{
+	jQuery.ajax(
+	{
+		url: "https://www.lemondeinformatique.fr/blocs/sondage_express.php",
+		type:"post",
+		data:
+		{
+			code:jQuery(div).data("code"),
+			reponse:reponse
+		},
+		success: function(data) 
+		{
+			jQuery(div).css('background','none');
+			jQuery(div).html(data);
+		}
+	});
+}
+
+function loadSondageExpress()
+{
+	jQuery(".sondage_question_affiche").each(function()
+	{
+		var code = jQuery(this).data("code");
+		var div = this;
+		var reponse = "";
+		
+		affiche_sondage_express(div,reponse);
+	});
+
+	$(".sondage_question_affiche").on( "click", ".sondage_question_voter" ,function(){
+
+		var div = jQuery(this).parents(".sondage_question_affiche");
+		
+		tab_reponse = new Array();
+		jQuery("input:checked",div).each(function()
+		{
+			tab_reponse.push(jQuery(this).val());
+		});			
+		var reponse = tab_reponse.join(",");
+					
+		affiche_sondage_express(div,reponse);
+	});
+}	
+
+
+/*
+	Gestion popup (connexion, inscription..)
+*/
+function loadPopup()
+{
+	$('body').on( 'click', '.link-popup', function() {   
+
+		if($("body").hasClass("overflow-hidden"))
+		{
+			$(".popup").remove();
+		}
+		else
+		{
+			$("body").addClass("overflow-hidden");
+			$('body').prepend('<section class="overlay"><img width="80px" height="80px" src="https://images.itnewsinfo.com/lmi/site/loader.gif" class="loader" /></section>');
+		}
+		
+		var urlPopup = 	$(this).attr('href');
+		var pattern = /\.(gif|jpg|jpeg|tiff|png)$/i;
+		if( pattern.test(urlPopup) )
+		{
+		    $('.overlay').prepend('<div class="popup popup-image"><div class="close close-popup icon-cancel"></div><img src="'+urlPopup+'" /></div>');
+		}
+		else
+		{
+			var popup = $(this);
+			$.ajax({
+			   type: "GET",
+			   url: urlPopup,
+			   data: "redirect="+popup.data('redirect'),
+			   success: function(msg){
+
+			   		if(msg == 'refresh')	
+			   		{
+			   			location.reload(); 
+			   		}
+			   		else if(msg == 'compte')	
+			   		{
+			   			document.location.href = "https://www.lemondeinformatique.fr/compte_utilisateur/private/profil.php";
+			   		}
+				   	else
+				   	{
+				   		$('.overlay').prepend('<div class="popup"><div class="close close-popup icon-cancel"></div>'+msg+'</div>');
+				   	}
+			   }
+			 });
+		}
+		return false;
+	});
+
+	$('body').on( 'click', '.popup input.submit', function() {   
+        var string 	= $(this).closest('form').serialize();   
+        var url 	= $(this).closest('form').attr('action');
+        $.ajax({
+           type: "GET",
+           url: url,
+           data: string,
+           success: function(msg){
+
+                if(msg == 'refresh')   
+                {
+                    location.reload(); 
+                }
+                else if(msg == 'compte')    
+                {
+                    document.location.href = "https://www.lemondeinformatique.fr/compte_utilisateur/private/profil.php";
+                }
+                else
+                {
+                    $(".popup-content").remove();
+                    $(".popup").prepend(msg);
+                }
+           }
+         });
+    
+    });
+
+	$('body').on( 'click', '.popup .close-popup', function() {       
+        $(".overlay").remove();
+        $("body").removeClass("overflow-hidden");
+    });
+
+
+    var hashtag = window.location.hash.substr(1);
+    if(hashtag == 'inscriptionCompteLMI')
+    {
+        history.pushState({ path: this.path }, '', document.location.protocol +"//"+ document.location.hostname + document.location.pathname);
+        $('body').append('<a id="subscribeDisplay" class="link-popup" href="https://www.lemondeinformatique.fr/compte_utilisateur/popup/inscription.php"></a>');
+        $('#subscribeDisplay').click();
+    }
+}
+
+/*
+	Gestion cookie validation
+*/
+function loadCookie()
+{
+	$("#infos_cookie div.fermer_cookie").click( function() {
+		jQuery.ajax({
+			url: 'https://www.lemondeinformatique.fr//ajax/fermer_popup.php?param=cookie',
+			success: function(data) {
+				jQuery('#infos_cookie').css('display','none');
+			}
+		});
+	});
+}
+
+/*
+	Gestion animation ancre
+*/
+function loadAnchor()
+{
+	$(function() {
+		$('a[href*="#"]:not([href="#"])').click(function() {
+			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+				var target = $(this.hash);
+				target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+				if (target.length) {
+					$('html, body').animate({
+						scrollTop: target.offset().top
+					}, 1000);
+					return false;
+				}
+			}
+		});
+	});
+}
+
+
+/*
+	Gestion article parallax
+*/
+function loadParallaxArticle()
+{
+	if(document.querySelector(".next-actu") != null)
+	{
+		if(window.innerWidth > 992)
+		{
+			
+			var widthActu = $('.next-actu .container').outerWidth();
+			$('.next-actu').css('width',widthActu+'px');
+
+			var topActuScreen = $(".next-actu").offset().top;
+			var ratio 	= window.innerHeight * (4/5);
+
+			$(window).scroll(function() {
+		    	var scrolled = $(window).scrollTop(); 
+			    var margeDefault = 400;
+			    var shadowDefault = 30; 
+
+			    var topActu = topActuScreen - margeDefault;
+
+			    var rupture = ratio + scrolled;
+			    if(rupture >= topActu)
+				{
+					if($('.next-actu').attr('data-view') == 0)
+					{
+						// Page vue Analytics
+						ga('send', 'pageview', $('.next-actu').data('url'));
+						ga('send', 'event', 'Article_suivant', 'Lecture');
+						$('.next-actu').attr('data-view', 1);
+					}
+
+					margin = (rupture - topActu)*0.6 - margeDefault;
+					shadow = shadowDefault - Math.round((rupture - topActu)/20);
+					if(margin >= 0)	margin = 0;
+					if(shadow <= 0)	shadow = 0;
+				}
+				else
+				{
+					var margin = -margeDefault;
+					var shadow = shadowDefault;
+				}
+			    
+				if(margin != 0 || shadow != 0)
+				{
+				    $('.next-actu').css('margin-top',margin+'px');
+				    $('.next-actu').css('box-shadow','0 -9px '+shadow+'px -9px #000');
+				}
+			    
+			    //console.log(scrolled+' '+margin+' '+((rupture - topActu)*0.6)+' '+topActu+' '+rupture);
+			});
+		}
+		else
+		{
+			$('.next-actu').css('margin-top','0px');
+		    $('.next-actu').css('box-shadow','none');
+		    $('.next-actu').css('width','auto');
+		}
+	}
+}
+
+
+/*
+	Gestion du menu
+*/
+function loadMenu()
+{
+	// Masquer suggestions de recherche quand click en dehors
+	$('body').on( "click", function(screen) {
+
+		$('.hideSugest').on( "click", function(screen) {
+			screen.stopPropagation();
+		});
+
+		$('#suggestContainer').fadeOut();
+	});
+
+
+	var stateMenu = 0;
+	//Gestion interaction header
+	$(window).resize(function() {
+
+		if( $(window).width() > 1230 ) // Annulation effet et affichage du menu mobile
+		{
+			//console.log($(window).width());
+			$('#menu').removeClass('selected');
+			$('.icon-menu').removeClass("selected");
+			$('#menu > li').removeClass("selected").removeClass("notSelected");
+			stateMenu = 0;
+		}
+	});
+
+	$('.icon-menu').on("click", function () {	// Affichage menu et animation du burger
+
+		if (stateMenu == 0) {
+		stateMenu = 1;
+			$('#menu').addClass('selected');
+			$('.icon-menu').addClass("selected");
+		}
+		else {
+			stateMenu = 0;
+			$('#menu').removeClass('selected');
+			$('.icon-menu').removeClass("selected");
+		}
+	});
+
+	$('.openNav').on("click", function () {		// Effet de transparence et affichage des sous menu en mode mobile
+
+		if( $(window).width() < 1230 )
+		{
+			$('.openNav,.item-nav').addClass("notSelected");
+			$(this).removeClass("notSelected");
+
+			if ($(this).hasClass("selected"))
+			{
+				$(this).removeClass("selected");
+				$('.openNav,.item-nav').removeClass("notSelected");
+			}
+			else 
+			{
+				$(this).addClass("selected");
+			}
+		}
+	});
+}
+
+/* Adtech */
+function myCallback ()
+{
+    console.log(arguments);
+}
+
+/* Bloc inscription NL */
+function sendParamForPopupNL(inputString)
+{
+    $('.submit-bloc-nl').attr('href', 'https://www.lemondeinformatique.fr/compte_utilisateur/popup/newsletter.php?preselect=1&email='+inputString);
+}
+</script></head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJCQ767" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-MQJJNLC':true});</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-16629140-1', 'auto');
+  ga('require', 'GTM-MQJJNLC');
+  
+  //Custom variables
+    
+  
+    
+  ga('send', 'pageview');
+
+</script>
+<div class="pub-Adtech pixel" data-dimension="16" data-theme="0" data-position="Footer"></div>
+<div id="Habillage" class="bloc-pub Habillage"></div><div id="Notification" class="bloc-pub Notification"></div><div id="Interstitiel" class="bloc-pub Interstitiel"></div>    <div id="dialogueBox" class="box-question">
+        <div onclick="ga(\'send\', \'event\', \'Contextualisation\', \'Clics\', \'box_question_etude\');" class="close"></div>
+        <div class="contenu">
+                            <div class="sous-titre">La question du moment</div>
+                <div class="question">Déployez-vous un modèle de sécurité zero trust ?</div>
+
+                <form id="form_question" method="get" action="">
+                    <ul class="choix">
+                                                    <li>
+                                <input type="radio" class="radio" value="1" name="question[910]" id="box_choix9101" />
+                                <label for="box_choix9101">Oui</label>
+                            </li>
+                                                        <li>
+                                <input type="radio" class="radio" value="2" name="question[910]" id="box_choix9102" />
+                                <label for="box_choix9102">En cours de mise en place</label>
+                            </li>
+                                                        <li>
+                                <input type="radio" class="radio" value="3" name="question[910]" id="box_choix9103" />
+                                <label for="box_choix9103">En cours de réflexion</label>
+                            </li>
+                                                        <li>
+                                <input type="radio" class="radio" value="4" name="question[910]" id="box_choix9104" />
+                                <label for="box_choix9104">J'aimerais bien</label>
+                            </li>
+                                                        <li>
+                                <input type="radio" class="radio" value="5" name="question[910]" id="box_choix9105" />
+                                <label for="box_choix9105">Non</label>
+                            </li>
+                                                </ul>
+                    <input type="hidden" name="etude" value="82" />
+                    <input type="hidden" name="etqu" value="910" />
+                    <input type="hidden" name="site" value="lmi" />
+                </form>
+                <a target="_blank" class="logo" href="https://www.cio-online.com/etudes/"></a>
+                        </div>
+    </div>
+    
+    <script>
+        jQuery('#dialogueBox input').click( function() {	
+            var string = $(this).closest('#form_question').serialize();	
+            $.ajax({
+               type: "GET",
+               url: "https://www.lemondeinformatique.fr/ajax/reponse_etude.php",
+               data: string,
+               success: function(msg){
+                    $("#form_question").remove();
+                    $("#dialogueBox .close").remove();
+                    $("#dialogueBox .question").after(msg);
+               }
+             });
+        
+        });
+        
+        // Gestion fermeture Box Popup Dialogue
+        jQuery("#dialogueBox .close").click( function() {
+            affichageBox = 'jamais';
+    
+            jQuery.ajax
+            ({
+                url: 'https://www.lemondeinformatique.fr/ajax/fermer_popup.php?param=etude',
+                success: function(data) 
+                {
+                    dialogueBox.animate({ 
+                        opacity:0 
+                      }, 300 , function() { dialogueBox.css('display','none'); });
+                }
+            });
+        });
+        
+        var dialogueBox = $('#dialogueBox'),
+        affichageBox = 'non',
+        hauteurBox = dialogueBox.height();
+            
+        $(document).on('scroll', function (evt) {
+            var newScroll = $(document).scrollTop();
+            // Box popup dialogue
+            if(newScroll > 900 && affichageBox == 'non')
+            {
+                dialogueBox.css('bottom','-'+hauteurBox+'px');
+                dialogueBox.css('opacity','0');
+                dialogueBox.css('display','block');
+                dialogueBox.animate({ 
+                    bottom: "0px",
+                    opacity:1 
+                  }, 1000 );
+                affichageBox = 'oui';
+            }
+            else if(newScroll <= 400 && affichageBox == 'oui')
+            {
+                dialogueBox.animate({ 
+                    bottom: '-'+hauteurBox+'px',
+                    opacity:0 
+                  }, 1000 );
+                affichageBox = 'non';
+            }
+        
+        });
+    </script>
+    
+<header id="header">
+	<div class="container-fluid">
+		<div id="logoHeadLMI">
+			<a href="https://www.lemondeinformatique.fr/">
+				<figure></figure>
+			</a>
+		</div>
+		<div id="nav-mobil">
+			<ul>
+				<li class="iconNavMob loupe"><a href="https://www.lemondeinformatique.fr/recherche/index.html" class="icon-search"></a></li>
+									<li class="iconNavMob paper"><a href="https://www.lemondeinformatique.fr/compte_utilisateur/newsletter.php" class="icon-mail"></a></li>
+					<li class="iconNavMob iconAccountHead"><a href="https://www.lemondeinformatique.fr/compte_utilisateur/popup/connexion.php" class="icon-user link-popup" data-redirect="compte"></a></li>
+									<li class="iconNavMob"><span class="icon-menu"></span></li>
+			</ul>
+		</div>
+		<nav>
+			<ul id="menu">
+				<li id="actuNav" class="openNav">Actualités <span class="icon-down-open"></span>
+					<ul>
+						<div class="containerTheme">
+															<li><a class="title" href="https://www.lemondeinformatique.fr/big-data-139.html">/ BIG DATA</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/business-informatique-internet-et-nouvelles-technologies-13.html">/ BUSINESS</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/le-monde-du-cloud-computing-8.html">/ CLOUD</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/datacenter-5.html">/ DATACENTER</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/emploi-informatique-internet-et-nouvelles-technologies-12.html">/ EMPLOI</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/hardware-et-materiel-informatique-9.html">/ HARDWARE</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/internet-et-e-business-11.html">/ INTERNET</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/internet-des-objets-143.html">/ IOT</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/logiciel-6.html">/ LOGICIEL</a></li>
+													</div>
+						<div class="containerTheme">
+															<li><a class="title" href="https://www.lemondeinformatique.fr/internet-sans-fil-et-mobilite-2.html">/ MOBILITÉ</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/systeme-d-exploitation-windows-macos-linux-10.html">/ OS</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/pme-informatique-web-et-nouvelles-technologies-14.html">/ PME</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/reseau-1.html">/ RÉSEAU</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/securite-informatique-3.html">/ SÉCURITÉ</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/gestion-et-stockage-des-donnees-4.html">/ STOCKAGE</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/transformation-numerique-146.html">/ TRANSFORM. NUMÉRIQUE</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/virtualisation-informatique-7.html">/ VIRTUALISATION</a></li>
+															<li><a class="title" href="https://www.lemondeinformatique.fr/voiture-connectee-151.html">/ VOITURE CONNECTÉE</a></li>
+														<li class="read-more-nav"><a href="https://www.lemondeinformatique.fr/actualites/toute-l-actualite.html">Toute l'actualité <span class="icon-right-open"></span></a></li>
+						</div>
+					</ul>
+				</li>
+				<li class="item-nav"><a href="https://www.lemondeinformatique.fr/les-dossiers/tous-les-dossiers-page-1.html">Dossiers</a></li>
+                <li class="item-nav"><a href="https://www.lemondeinformatique.fr/evenements/">événements</a>
+				<!--<li class="item-nav"><a href="https://www.lemondeinformatique.fr/actualites/chroniques.html">Chroniques</a></li>-->
+				<li id="serviceNav" class="openNav">Services <span class="icon-down-open"></span>
+					<ul>
+												<li><a class="title" href="https://www.lemondeinformatique.fr//actualites/chroniques.html"><span class="icon-pencil"></span>chroniques</a></li>
+												<li><a class="title" href="https://www.lemondeinformatique.fr/agenda/"><span class="icon-table"></span> agenda</a></li>
+												<li><a class="title" href="https://www.lemondeinformatique.fr/salaires-informatique/"><span class="icon-chart-bar"></span> comparateur de salaires</a></li>
+												<li><a class="title" href="https://www.lemondeinformatique.fr/couvertures/index.html"><span class="icon-newspaper"></span> couvertures LMI</a></li>
+											</ul>
+				</li>
+				<li class="item-nav sponsor-Nav"><a href="https://www.lemondeinformatique.fr/livre-blanc/">Livres-Blancs</a></li>
+				<li class="item-nav sponsor-Nav lastIconNav"><a href="https://www.lemondeinformatique.fr/espace-partenaire/centre-de-documentation.html">Partenaires</a></li>
+									<li id="iconPaperHead" class="iconNav"><a href="https://www.lemondeinformatique.fr/compte_utilisateur/newsletter.php" class="icon-mail"></a></li>
+					<li class="notifWonder">
+						<div id="wonderpush-subscription-switch" data-sentence="" data-on=" " data-off=" "></div>
+						<div id="activateNotification" class="infoNotification"><span>Cliquez ici pour activer les notifications</span></div>
+						<div id="desactivateNotification" class="infoNotification"><span>Cliquez ici pour désactiver les notifications</span></div>
+					</li>
+					<li class="iconNav iconAccountHead"><a href="https://www.lemondeinformatique.fr/compte_utilisateur/popup/connexion.php" class="icon-user link-popup" data-redirect="compte"></a></li>
+								</ul>
+		</nav>
+		<div id="searchContainer">
+			<form id="searchFormHeader" class="hideSugest" action="https://www.lemondeinformatique.fr/recherche/index.html">
+				<button type="submit" id="searchGlass" form="searchFormHeader"><span class="icon-search"></span></button>
+				<div id="container-input-search">
+					<input type="text" value="" id="inputSearchHeader" class="inputSearch" name="search" autocomplete="off" onkeyup="lookup(this.value);" />
+				</div>
+			</form>
+			<div id="suggestContainer">
+				<div id="suggestHeaderThemeSponsor" class="suggestStyle hideSugest">
+					<div id="containerThemeSearch">
+						<div class="section-title">
+							<h3 class="title">Sur le même thème</h3>
+						</div>
+						<ul id="headerThemeSearch"></ul>
+					</div>
+					<div id="containerSponsorSearch">
+						<div class="section-title">
+							<h3 class="title">Partenaires</h3>
+						</div>
+						<ul id="headerSponsorSearch"></ul>
+					</div>
+				</div>
+				<div id="suggestHeaderAllSearch" class="suggestStyle hideSugest"></div>
+			</div>
+		</div>
+	</div>
+			<aside class="currently gradient-content hidden-xs">
+			<div class="container">
+				<ul>
+					<li class="title">En ce moment :</li>
+					
+					
+					<li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'IT TOUR DIGITAL');" href="https://www.lemondeinformatique.fr/it-tour-digital/">IT TOUR DIGITAL</a></li>
+					<!--
+					<li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'CYBERSECURITE 2020');" href="https://www.lemondeinformatique.fr/cybersecurite/index.html">CyberSécurité 2020</a></li>
+					-->
+						                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'SolarWinds');" href="https://www.lemondeinformatique.fr/actualites/speciale-solarwinds-300.html">SolarWinds</a></li>
+	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'Tests');" href="https://www.lemondeinformatique.fr/actualites/speciale-tests-270.html">Tests</a></li>
+	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'IT Tour');" href="https://www.lemondeinformatique.fr/actualites/speciale-it-tour-18.html">IT Tour</a></li>
+	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'LMI MAG');" href="https://www.lemondeinformatique.fr/actualites/speciale-lmi-mag-282.html">LMI MAG</a></li>
+	                    
+                </ul>
+			</div>
+		</aside>
+		<div class="border gradient-content visible-xs"></div>
+		</header>
+
+<script>
+
+    // Gestion Boutton Wonderpush
+
+	var targetNode = document.getElementById('wonderpush-subscription-switch');
+	var config = { attributes: true, childList: true };
+
+	var callback = function(mutationsList)
+	{
+		for(var mutation of mutationsList)
+		{
+			if (mutation.type == 'childList')
+			{
+                if($( window ).width() >= 1260)
+                {
+                    $( "#wonderpush-subscription-switch" ).on( "mouseover", function()
+                    {
+                        if($('#wonderpush-subscription-switch-input').prop('checked'))
+                        {
+                            $('#desactivateNotification').show();
+                            $('#activateNotification').hide();
+                        }
+                        else
+                        {
+                            $('#desactivateNotification').hide();
+                            $('#activateNotification').show();
+                        }
+                    });
+
+                    $( "#wonderpush-subscription-switch" ).on( "mouseout", function()
+                    {
+                        $('#desactivateNotification').hide();
+                        $('#activateNotification').hide();
+                    });
+                }
+			}
+		}
+	};
+
+    var observer = new MutationObserver(callback);
+    observer.observe(targetNode, config);
+
+    $(window).scroll(function (event)
+    {
+        var scroll = $(window).scrollTop();
+
+        if(scroll > 500 && $( window ).width() < 1260)
+        {
+            $(".notifWonder").hide();
+        }
+    });
+
+</script>
+
+<div id="main">
+	<section class="pub-ban top">
+	    <div class="container">
+	        <div id="BanTop" class="pub-Adtech bloc-pub BanTop" data-dimension="225" data-theme="0" data-position="BanTop"></div>	    </div>
+	</section>
+<section class="content">
+    <div class="container relative">
+        <div class="content-left">
+
+            <header class="header-section mb-medium">
+                <div class="toolbox mb-small">
+                    <div class="breadcrumb">
+                        <a class="title" href="https://www.lemondeinformatique.fr/actualites/toute-l-actualite.html">Toute l'actualité</a> 
+                        <span class="separator">/</span> 
+                        <a rel="category tag" itemprop="articleSection" id="theme" href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"><b>Docker</b></a>
+                    </div>
+                        <ul class="share">
+        <li><a onclick="ga('send', 'event', 'Partage', 'Clics', 'Facebook');"  target="_blank" class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"></a></li>
+        <li><a onclick="ga('send', 'event', 'Partage', 'Clics', 'Twitter');" target="_blank" class="icon-twitter" href="https://twitter.com/intent/tweet?url=https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"></a></li>
+        <!--  <li><a onclick="ga('send', 'event', 'Partage', 'Clics', 'GooglePlus');" target="_blank" class="icon-gplus" href="https://plus.google.com/share?url=https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"></a></li> -->
+        <li><a onclick="ga('send', 'event', 'Partage', 'Clics', 'LinkedIn');" target="_blank" class="icon-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"></a></li>
+        <!-- <li><a onclick="ga('send', 'event', 'Partage', 'Clics', 'Email');" class="icon-mail" href="mailto:?subject=Partage sur LMI&body=https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477.html"></a></li> -->
+    </ul>
+                    </div>
+                <h1 class="page-title">/ Docker</h1>
+            </header>
+           
+            <div class="list-large">
+                                    <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-la-moitie-des-images-de-docker-hub-vulnerables-a-des-failles-critiques-81223.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000075739.jpg" alt="La moitié des images de Docker Hub vulnérables à des failles critiques">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000075739.jpg" border="0" title="La moitié des images de Docker Hub vulnérables à des failles critiques" alt="La moitié des images de Docker Hub vulnérables à des failles critiques" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 03 Décembre 2020</b><span class="hidden-xs">  / Intrusion, Hacking et Pare-feu</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-la-moitie-des-images-de-docker-hub-vulnerables-a-des-failles-critiques-81223.html" class="title">La moitié des images de Docker Hub vulnérables à des failles critiques</a></h2>
+                                <p>Des études révèlent l'ampleur de l'exploitation par les criminels des référentiels publics open source de Docker pour implanter des logiciels malveillants dans les images des...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-publie-son-1er-post-mortem-public-sur-un-incident-interne-80094.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000073770.jpg" alt="Docker publie son 1er post-mortem public sur un incident interne">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000073770.jpg" border="0" title="Docker publie son 1er post-mortem public sur un incident interne" alt="Docker publie son 1er post-mortem public sur un incident interne" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 20 Aout 2020</b><span class="hidden-xs">  / Cloud</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-publie-son-1er-post-mortem-public-sur-un-incident-interne-80094.html" class="title">Docker publie son 1er post-mortem public sur un incident interne</a></h2>
+                                <p>Pour confirmer sa volonté d'accompagner davantage les développeurs, Docker vient de décrire à leur intention la résolution interne d'un incident survenu début juillet sur son...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-hub-va-supprimer-les-images-de-containers-inactives-depuis-6-mois-80058.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000073726.jpg" alt="Docker Hub va supprimer les images de containers inactives depuis 6 mois">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000073726.jpg" border="0" title="Docker Hub va supprimer les images de containers inactives depuis 6 mois" alt="Docker Hub va supprimer les images de containers inactives depuis 6 mois" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 18 Aout 2020</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-hub-va-supprimer-les-images-de-containers-inactives-depuis-6-mois-80058.html" class="title">Docker Hub va supprimer les images de containers inactives depuis 6 mois</a></h2>
+                                <p>Sur plus de 15 Po d'images de containers stockées sur Docker Hub, près de 4,5 Po n'ont pas été utilisées depuis 6 mois ou plus. Docker instaure donc une limite de durée sur leur...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-microsoft-accelere-l-integration-de-docker-dans-azure-79563.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000072997.jpg" alt="Microsoft accélère l'intégration de Docker dans Azure">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000072997.jpg" border="0" title="Microsoft accélère l'intégration de Docker dans Azure" alt="Microsoft accélère l'intégration de Docker dans Azure" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 26 Juin 2020</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-microsoft-accelere-l-integration-de-docker-dans-azure-79563.html" class="title">Microsoft accélère l'intégration de Docker dans Azure</a></h2>
+                                <p>Avec la dernière version de Docker Desktop, les développeurs sont désormais en mesure d'exécuter des applications conteneurisées avec des instances Azure invocables via une ligne...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-des-instances-azure-conteneurisees-plus-faciles-a-deployer-79231.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000072490.jpg" alt="Des instances Azure conteneurisées plus faciles à déployer">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000072490.jpg" border="0" title="Des instances Azure conteneurisées plus faciles à déployer" alt="Des instances Azure conteneurisées plus faciles à déployer" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 28 Mai 2020</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-des-instances-azure-conteneurisees-plus-faciles-a-deployer-79231.html" class="title">Des instances Azure conteneurisées plus faciles à déployer</a></h2>
+                                <p>Pour faciliter le déploiement d'instances Azure conteneurisées, Docker et Microsoft proposent des outils aux développeurs. Avec à la clé la possibilité de créer un environnement...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-la-specification-docker-compose-desormais-un-standard-ouvert-78744.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000071761.jpg" alt="La spécification Docker Compose désormais un standard ouvert">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000071761.jpg" border="0" title="La spécification Docker Compose désormais un standard ouvert" alt="La spécification Docker Compose désormais un standard ouvert" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 10 Avril 2020</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-la-specification-docker-compose-desormais-un-standard-ouvert-78744.html" class="title">La spécification Docker Compose désormais un standard ouvert</a></h2>
+                                <p>Le système de Docker pour créer des applications à partir de plusieurs conteneurs, Compose, est maintenant disponible sur GitHub pour permettre à tous les développeurs de...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-a-la-recherche-d-un-nouveau-souffle-78400.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000071233.jpg" alt="Docker à la recherche d'un nouveau souffle">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000071233.jpg" border="0" title="Docker à la recherche d'un nouveau souffle" alt="Docker à la recherche d'un nouveau souffle" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 11 Mars 2020</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-a-la-recherche-d-un-nouveau-souffle-78400.html" class="title">Docker à la recherche d'un nouveau souffle</a></h2>
+                                <p>Après le rachat de son activité entreprises par Mirantis, Docker veut croire en une autre vie en capitalisant sur la notoriété de la technologie de conteneurs. Il souhaite se...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-kubernetes-et-docker -comment-sauvegarder-ses-conteneurs-77776.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000070266.jpg" alt="Kubernetes et Docker : comment sauvegarder ses conteneurs">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000070266.jpg" border="0" title="Kubernetes et Docker : comment sauvegarder ses conteneurs" alt="Kubernetes et Docker : comment sauvegarder ses conteneurs" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 20 Janvier 2020</b><span class="hidden-xs">  / Sauvegarde</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-kubernetes-et-docker -comment-sauvegarder-ses-conteneurs-77776.html" class="title">Kubernetes et Docker : comment sauvegarder ses conteneurs</a></h2>
+                                <p>Il n'est pas nécessaire de sauvegarder tout le contenu de chaque conteneur, mais il est important de sauvegarder les configurations pour pouvoir les exécuter et les gérer en cas...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-se-recentre-desormais-sur-les-developpeurs-77071.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000069253.jpg" alt="Docker se recentre désormais sur les développeurs">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000069253.jpg" border="0" title="Docker se recentre désormais sur les développeurs" alt="Docker se recentre désormais sur les développeurs" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 14 Novembre 2019</b><span class="hidden-xs">  / Editeur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-se-recentre-desormais-sur-les-developpeurs-77071.html" class="title">Docker se recentre désormais sur les développeurs</a></h2>
+                                <p>Docker a cédé sa plateforme Docker Enterprise à Mirantis pour se consacrer aux workflows de développement. La société vient par ailleurs de lever 35 M$ pour se recapitaliser et...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-focus-sur-l-orchestrateur-kubernetes-et-les-conteneurs-docker-77031.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000069188.jpg" alt="Focus sur l'orchestrateur Kubernetes et les conteneurs Docker">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000069188.jpg" border="0" title="Focus sur l'orchestrateur Kubernetes et les conteneurs Docker" alt="Focus sur l'orchestrateur Kubernetes et les conteneurs Docker" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 10 Novembre 2019</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-focus-sur-l-orchestrateur-kubernetes-et-les-conteneurs-docker-77031.html" class="title">Focus sur l'orchestrateur Kubernetes et les conteneurs Docker<span class="icon-star account small"></span></a></h2>
+                                <p>Dans les tendances en matière de développement logiciel, il y a deux noms qui sont incontournables : Docker et Kubernetes, open source tous les deux. Le premier déploie des...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-va-t-il-passer-l-hiver-76593.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000068503.jpg" alt="Docker va-t-il passer l'hiver ?">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000068503.jpg" border="0" title="Docker va-t-il passer l'hiver ?" alt="Docker va-t-il passer l'hiver ?" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 30 Septembre 2019</b><span class="hidden-xs">  / Financement</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-va-t-il-passer-l-hiver-76593.html" class="title">Docker va-t-il passer l'hiver ?</a></h2>
+                                <p>Comme d'autres éditeurs de solutions basées sur l'open source, Docker est aujourd'hui en difficultés. La société, qui n'a pas encore trouvé de modèle économique solide, est en...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-enterprise-30-la-version-definitive-est-arrivee-75988.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000067651.jpg" alt="Docker Enterprise 3.0 : La version définitive est arrivée">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000067651.jpg" border="0" title="Docker Enterprise 3.0 : La version définitive est arrivée" alt="Docker Enterprise 3.0 : La version définitive est arrivée" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 24 Juillet 2019</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-enterprise-30-la-version-definitive-est-arrivee-75988.html" class="title">Docker Enterprise 3.0 : La version définitive est arrivée</a></h2>
+                                <p>Ajout de templates applicatifs, meilleure prise en mains, intégration de Kubernetes Service, automatisation du déploiement... la General Availability de la v3 de Docker Entreprise...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-recrute-a-sa-tete-rob-bearden-ex-ceo-d-hortonworks-75233.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066611.jpg" alt="Docker recrute à sa tête Rob Bearden, ex-CEO d'Hortonworks">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066611.jpg" border="0" title="Docker recrute à sa tête Rob Bearden, ex-CEO d'Hortonworks" alt="Docker recrute à sa tête Rob Bearden, ex-CEO d'Hortonworks" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 09 Mai 2019</b><span class="hidden-xs">  / Nomination</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-recrute-a-sa-tete-rob-bearden-ex-ceo-d-hortonworks-75233.html" class="title">Docker recrute à sa tête Rob Bearden, ex-CEO d'Hortonworks</a></h2>
+                                <p>Rob Bearden, précédemment CEO d'Hortonworks, remplace Steve Singh aux manettes de Docker. Chez l'éditeur de technologies de containers, il sera chargé d'accélérer la stratégie de...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-enterprise-30-integre-une-pile-kubernetes-securisee-75207.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066573.jpg" alt="Docker Enterprise 3.0 intègre une pile Kubernetes sécurisée">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066573.jpg" border="0" title="Docker Enterprise 3.0 intègre une pile Kubernetes sécurisée" alt="Docker Enterprise 3.0 intègre une pile Kubernetes sécurisée" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 06 Mai 2019</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-enterprise-30-integre-une-pile-kubernetes-securisee-75207.html" class="title">Docker Enterprise 3.0 intègre une pile Kubernetes sécurisée</a></h2>
+                                <p>La version 3.0 de Docker Enterprise, désormais disponible en version bêta, intègre une pile Kubernetes verrouillée et une fonction de déploiement de paquet unique pour les...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-s-associe-a-arm-autour-du-cloud-de-l-iot-et-de-l-edge-75103.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066435.jpg" alt="Docker s'associe à ARM autour du cloud, de l'IoT et de l'edge">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066435.jpg" border="0" title="Docker s'associe à ARM autour du cloud, de l'IoT et de l'edge" alt="Docker s'associe à ARM autour du cloud, de l'IoT et de l'edge" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 25 Avril 2019</b><span class="hidden-xs">  / Internet des objets</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-s-associe-a-arm-autour-du-cloud-de-l-iot-et-de-l-edge-75103.html" class="title">Docker s'associe à ARM autour du cloud, de l'IoT et de l'edge</a></h2>
+                                <p>Afin de faciliter les déploiements d'applications en périphérie, Docker et ARM annoncent un partenariat technologique. Les développeurs pourront travailler nativement sur les...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-12-outils-open-source-pour-ameliorer-docker-75082.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066396.jpg" alt="12 outils open source pour améliorer Docker">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000066396.jpg" border="0" title="12 outils open source pour améliorer Docker" alt="12 outils open source pour améliorer Docker" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 24 Avril 2019</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-12-outils-open-source-pour-ameliorer-docker-75082.html" class="title">12 outils open source pour améliorer Docker</a></h2>
+                                <p>Depuis l'amélioration des interfaces graphiques des outils Docker jusqu'à la rationalisation du développement et des tests, de nombreux outils permettent d'améliorer les fonctions...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-steve-singh-ceo-de-docker--les-gens-vont-construire-des-applications-s-empilant-comme-des-lego-73680.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000064477.jpg" alt="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000064477.jpg" border="0" title="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »" alt="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 10 Décembre 2018</b><span class="hidden-xs">  / Conteneur</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-steve-singh-ceo-de-docker--les-gens-vont-construire-des-applications-s-empilant-comme-des-lego-73680.html" class="title">Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »</a></h2>
+                                <p>A l'occasion de la Dockercon Europe, le CEO de Docker, Steve Singh est revenu sur sa stratégie commerciale. Selon lui, les éditeurs d'applications vont de plus en plus partager et...</p>
+                            </div>
+                        </div>
+                    </article>
+                                </div>
+            <nav class="pagination default"><a href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477-page-2.html" rel="next" class="nav next"><span class="icon-right-open"></span></a><span rel="prev" class="nav prev"><span class="icon-left-open"></span></span><ul><li><a href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477-page-1.html" class="page selected">1</a></li><li><a class="page" href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477-page-2.html">2</a></li><li><a class="page" href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477-page-3.html">3</a></li><li><a class="page" href="https://www.lemondeinformatique.fr/toute-l-actualite-marque-sur-docker-1477-page-4.html">4</a></li></ul></nav>        </div>
+
+        <div class="content-right">
+            <div class="bloc advice mb-large">
+	<h3>Newsletter</h3>
+	<p>Recevez notre newsletter comme plus de 50 000 professionnels de l'IT!</p>
+	<a href="https://www.lemondeinformatique.fr/compte_utilisateur/newsletter.php" class="button account small">Je m'abonne</a>
+</div><div class="toboggan mb-small">
+    <div id="MPUTop" class="bloc pub-Adtech bloc-pub MPUTop" data-dimension="170" data-theme="0" data-position="MPUTop"></div></div>
+<div class="toboggan mb-small">
+    <div id="MPUBottom" class="bloc pub-Adtech hidden-xs bloc-pub MPUBottom" data-dimension="170" data-theme="0" data-position="MPUBottom"></div></div>        </div>
+    </div>
+</section>
+
+
+	<section class="pub-ban">
+		<div class="container">
+			<div id="BanBottom" class="pub-Adtech bloc-pub BanBottom" data-dimension="225" data-theme="0" data-position="BanBottom"></div>		</div>
+	</section>
+
+</div> <!-- #main -->
+
+
+<footer id="footer">
+	<div class="container mb-large">
+		<div class="row gridPartFoot pattern-column-1">
+			<div class="col-lg-7 mb-large logoFirstFoot">
+				<figure id="logo-foot-lmi"></figure>
+				<p>Le site le plus consulté par les informaticiens en France</p>
+				<p>LeMondeInformatique.fr est une marque de <a href="https://www.itnewsinfo.com/" target="_blank">IT News Info</a>, 1er groupe d'information	et de services dédié aux professionnels de l'informatique en France.</p>
+			</div>
+			<div class="col-lg-5 mb-large">
+				<div class="social">
+					<p>Suivez-nous sur les réseaux</p>
+					<ul>
+						<li><a target="_blank" href="https://www.facebook.com/Le-Monde-Informatique-103373896380515/?ref=sgm" class="icon-facebook"></a></li>
+						<li><a target="_blank" href="https://twitter.com/MondeInformatiq" class="icon-twitter"></a></li>
+						<li><a target="_blank" href="https://plus.google.com/103357175701322909730" class="icon-gplus"></a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/company/le-monde-informatique?trk=company_name" class="icon-linkedin"></a></li>
+						<li><a target="_blank" href="https://www.instagram.com/lemondeinformatique/" class="icon-instagram"></a></li>
+						<li><a href="https://www.lemondeinformatique.fr/flux-rss/" class="icon-rss hidden-xs"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row pattern-column-1">
+			<div class="col-md-12 ungridPartFoot">
+				<ul class="navFoot mb-small">
+					<li><a href="https://www.lemondeinformatique.fr/divers/contacts.html">Nous contacter</a></li>
+                    <!--
+					<li><a href="https://www.lemondeinformatique.fr/compte_utilisateur/newsletter.php">Newsletters</a></li>
+					-->
+					<li><a href="https://www.lemondeinformatique.fr/divers/apropos.html">Mentions Légales</a></li>
+          <!--
+					<li><a href="https://www.itnewsinfo.com/recrutement/">Recrutement</a></li>
+					-->
+					<li><a href="https://www.lemondeinformatique.fr/divers/charte-confidentialite.html">Charte de confidentialité</a></li>
+                    <li><a href="https://www.lemondeinformatique.fr/divers/condition-generales-vente.html">Conditions générales de vente</a></li>
+                    <li><a style="cursor: pointer;" class="change-consent" onclick="window.__cmp('displayConsentUi');">Paramètres de gestion de la confidentialité</a></li>
+				</ul>
+				<div class="copyrightFoot mb-small">
+					<p> Copyright © LeMondeInformatique.fr 1997-2021</p>
+					<p class="mb-medium">Toute reproduction ou représentation intégrale ou partielle, par quelque procédé que ce soit, des pages publiées sur ce site, faite sans l'autorisation de l'éditeur ou du webmaster du site LeMondeInformatique.fr est illicite et constitue une contrefaçon.</p>
+				</div>
+				<ul class="logoFoot">
+					<li><a target="_blank" href="https://www.lemondeinformatique.fr/" id="logo-lmi" ></a></li>
+					<li><a target="_blank" href="https://www.cio-online.com/" id="logo-cio" ></a></li>
+					<li><a target="_blank" href="https://www.distributique.com/" id="logo-distri" ></a></li>
+          <li><a target="_blank" href="https://www.it-tour.fr/" id="logo-it-tour" ></a></li>
+					<li><a target="_blank" href="https://www.france-entreprise-digital.fr/" id="logo-fed" ></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+
+    <!-- Lazy load images-->
+	<script src="/javascript/unveil.js"></script>
+	<script>
+	$(window).on('load resize', function() {
+		loadDimensionContentRightAndToboggan();
+		loadToboggan();
+		//loadParallaxArticle();
+	});
+
+	$(document).ready(function() {
+		$("figure img").unveil(150);
+		loadSondageExpress();
+		loadPopup();
+		loadCookie();
+		loadAnchor();
+		loadMenu();
+    });
+
+    $(window).scroll(function() {
+        $(".pub-Adtech.not-loaded").each(function(index, content) {
+            displayPub($(this));
+        });
+    });
+
+	// Gestion Border WhitePaper
+	$('.item-wp .button-border').hover(
+		function() { $( this ).parent().addClass( "hover" ); },
+		function() { $( this ).parent().removeClass( "hover" ); }
+	);
+	</script>
+
+		    <script type="text/javascript">
+            $(window).on('load', function() {
+				if (jQuery('.pub-ban.top').height() < 101 && window.innerWidth > 992) {	
+					ga('send', 'event', 'AdBlock', 'Detection', {  nonInteraction: true	});
+				}
+			});
+		</script>
+	    
+
+
+</footer>
+    
+
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0)    -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://quantcast.mgr.consensu.org'
+    .concat('/choice/', 'jV8Na_R3FcJaX', '/', host, '/choice.js')
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            event.source.postMessage(returnMsg, '*');
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+
+<script>
+function depositionne()
+{
+  
+  try {
+    console.log("depositionne");
+    document.getElementById('qc-cmp2-ui').parentNode.style.height="100%"; 
+    document.getElementById('qc-cmp2-ui').parentNode.style.marginTop='0px';
+    document.getElementsByTagName("body")[0].onclick = function(){}
+    console.log("depositionne done");
+  } catch(e) {
+    console.log("......."+ e);
+  }
+  return false;
+}
+
+function positionne()
+{
+ 
+  try { 
+    console.log("positionne");
+    document.getElementsByClassName("sc-ifAKCX gBlCTJ")[0].onclick = depositionne;
+    document.getElementById('qc-cmp2-ui').parentNode.style.height='131px'; 
+    document.getElementById('qc-cmp2-ui').parentNode.style.marginTop=window.innerHeight-document.getElementById('qc-cmp2-ui').parentNode.offsetHeight +'px'; 
+    console.log("done positionne");
+ 
+  } catch(e) {
+    console.log(">>>>>>"+ e);
+  }
+}
+
+function pollDOM () {
+  const el = document.getElementsByClassName("qc-cmp2-summary-section");
+  if (el.length) {
+    document.getElementsByClassName("qc-cmp2-summary-section")[0].style.display='none';
+    setTimeout(function(){  
+      document.getElementsByClassName("qc-cmp2-summary-section")[0].innerHTML = "<h1 style=\"margin-bottom:10px;\">Les cookies sur www.lemondeinformatique.fr</h1>Le Monde Informatique utilise des cookies pour disposer de mesures d’audience. Si vous l’acceptez, nous utilisons également des outils permettant avec nos <a onclick=\"document.getElementsByClassName('sc-ifAKCX gBlCTJ')[0].click(); document.getElementsByClassName('sc-ifAKCX eBdLbQ')[27].click(); setTimeout(function(){document.getElementsByClassName('sc-ifAKCX eBdLbQ')[27].click()}, 350);\" style=\"display:inline;color:blue;\">partenaires</a> de vous proposer des contenus et des publicités personnalisés en fonction de vos centres d’intérêt et de votre localisation. Le refus des cookies non nécessaires au fonctionnement du site n’a pas d’incidence sur votre navigation. Vous pouvez modifier vos paramètres à tout moment.";
+      document.getElementsByClassName("qc-cmp2-summary-section")[0].style.display='initial';
+      if(0) {
+        document.getElementsByTagName("body")[0].onclick = function(){
+          try {
+            console.log("event on button");
+            document.getElementsByClassName("sc-ifAKCX goHOiE")[0].click();
+          } catch(e) {
+            console.log(e);
+          }
+        }
+      }
+    }, 100);
+  positionne();
+  } else {
+    console.log("pas DIV"+ ibs);
+    if (ibs < 500) {
+      setTimeout(pollDOM, 400); 
+    }
+    ibs++;
+  }
+}
+ibs = 0;
+pollDOM();
+if (0) { window.onresize = positionne; }
+</script>
+</body>
+</html>
