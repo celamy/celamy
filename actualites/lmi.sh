@@ -12,5 +12,5 @@ do
 		echo -e "$http"
 	fi
 #
-done < /home/pfe/actualites/lmi.txt >> /home/pfe/actualites/actualites.txt 
+done < $LMITEXT >> $ACTUTEXT 
 #<h2><a href="https://www.lemondeinformatique.fr/actualites/lire-la-moitie-des-images-de-docker-hub-vulnerables-a-des-failles-critiques-81223.html" class="title">La moitié des images de Docker Hub vulnérables à des failles critiques</a></h2>

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-. /home/pfe/menu/presentation.sh --source-only
+. /home/celamy/celamy/menu/presentation.sh --source-only
 
 #####################################################################################################################################################################
 #####################################################################################################################################################################
@@ -52,10 +52,10 @@ else
 fi
 
 # aficher l'image de présentation
-banniere_sous_menu
+banniere_sous_menu_un
 
 
-echo -e "${DARK_CYAN}Audit d'un docker"
+echo -e "${DARK_CYAN}Audit d'un seul conteneur docker : $image:$name"
 echo -e "${WHITE}               1. Audit complète"
 echo -e "               2. Analyse des images"
 echo -e "               3. Analyse des droits"
@@ -76,6 +76,8 @@ if [[ $output1 == 1 ]]; then
 
 	echo -e "\n${YELLOW}                                            Appuyez sur une touche pour continuer.."
         read -n 1 -s
+
+	tput sgr0
 
         $ANALYSE_IMAGE $image
 

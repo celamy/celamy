@@ -55,15 +55,14 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/css/silicon-style.css?ver=1608903943" type="text/css" async="async">
+	<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/css/silicon-style.css?ver=1612276412" type="text/css" async="async">
 <link rel='stylesheet' id='kamino-what-is-my-ip-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-what-is-my-ip/css/kamino-what-is-my-ip.css?ver=1.0.0a' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='https://www.silicon.fr/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='https://www.silicon.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='hutt-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-hutt/assets/css/hutt.css?ver=1608903943' type='text/css' media='all' />
-<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/kamino-post-type-expert/assets/refonte_v2/css/expert-silicon-widget.css?ver=1608903943" type="text/css" async="async">
+<link rel='stylesheet' id='hutt-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-hutt/assets/css/hutt.css?ver=1612276412' type='text/css' media='all' />
+<link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/kamino-post-type-expert/assets/refonte_v2/css/expert-silicon-widget.css?ver=1612276412" type="text/css" async="async">
 <link rel='stylesheet' id='pdfprnt_frontend-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-print-pdf/css/frontend.css?ver=1.9.6' type='text/css' media='all' />
 <link rel='stylesheet' id='kamino_plugin_quick_registration-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-quick-registration/public/css/kamino-plugin-quick-registration-public.css?ver=1.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='kamino-wonderpush-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-wonderpush/public/css/kamino-wonderpush-public.css?ver=1.0.0' type='text/css' media='all' />
 <link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/wp-email/email-css.css?ver=2.68.1" type="text/css" async="async">
 <link rel="stylesheet"  href="https://www.silicon.fr/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.5" type="text/css" async="async">
 <style id='wp-polls-inline-css' type='text/css'>
@@ -77,7 +76,7 @@ img.emoji {
 }
 
 </style>
-<link rel='stylesheet' id='it_interview_widget-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-post-type-interview/assets/refonte_v2/css/interview-widget.min.css?ver=1608903943' type='text/css' media='all' />
+<link rel='stylesheet' id='it_interview_widget-css'  href='https://www.silicon.fr/wp-content/plugins/kamino-post-type-interview/assets/refonte_v2/css/interview-widget.min.css?ver=1612276412' type='text/css' media='all' />
 <script type='text/javascript' src='https://www.silicon.fr/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://www.silicon.fr/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/kamino-what-is-my-ip/js/jquery.flightboard.js?ver=5.4.4" defer="defer" ></script>
@@ -89,47 +88,18 @@ var pw_script_vars = {"failure_field":"Le champs email est vide","failure_form":
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://www.silicon.fr/wp-content/plugins/kamino-quick-registration/public/js/kamino-plugin-quick-registration-public.js?ver=1.2.3" defer="defer" ></script>
-<script type='text/javascript' src='https://www.silicon.fr/wp-content/plugins/kamino-wonderpush/public/js/kamino-wonderpush-public.js?ver=1.0.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var kamino_cookie_data = {"KAMINO_ANABOLIC_COOKIE_NAME":"fr9","KAMINO_SUBSCRIPTION_URL":"https:\/\/inscription.silicon.fr","KAMINO_SITE_NAME":"silicon.fr","string_continue":"http%3A%2F%2Fwww.silicon.fr%2Ftag%2Fdocker","string_continue_label":"Silicon","string_edit_your_profile":"Modifiez votre profil","string_disconnect":"Disconnect","string_login":"Connectez-vous","string_newsletter":"Newsletter","string_cookie_privacy_text":"Nous utilisons des cookies afin de personnaliser le contenu et les fonctionnalit\u00e9s de notre site. En continuant \u00e0 naviguer, vous acceptez leur utilisation. Plus de d\u00e9tails sur notre politique d'utilisation des cookies .<a href=\"http:\/\/www.silicon.fr\/conditions-generales-dutilisation\" class=\"knowmore\">En savoir plus<\/a>","string_close":"Fermer","string_agree":"Je suis d'accord","string_donotshowmsg":"Ne plus afficher ce message"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/js/cookie.min.js?ver=1608903943'></script>
-<script type="text/javascript" src="https://www.silicon.fr/wp-content/themes/kamino/assets/js/utils-kamino.min.js?ver=1608903943" async="async" ></script>
-<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/js/mobile_menu.js?ver=1608903943'></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/js/cookie.min.js?ver=1612276412'></script>
+<script type="text/javascript" src="https://www.silicon.fr/wp-content/themes/kamino/assets/js/utils-kamino.min.js?ver=1612276412" async="async" ></script>
+<script type='text/javascript' src='https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/js/mobile_menu.js?ver=1612276412'></script>
 <link rel='https://api.w.org/' href='https://www.silicon.fr/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.silicon.fr/wp/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.silicon.fr/wp/wp-includes/wlwmanifest.xml" /> 
-<script>
-                            (function(w, d, s, id, n){
-                                w[n] = w[n] || {q: [],
-                                    init: function(o) {w[n].initOpts = o;},
-                                    ready: function(c) {w[n].q.push(c);}};
-                                var js, fjs = d.getElementsByTagName(s)[0];
-                                if (d.getElementById(id)) {return;}
-                                js = d.createElement(s); js.id = id;
-                                js.src = "https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }(window, document, "script", "wonderpush-jssdk-loader", "WonderPush"));
-                            
-                            WonderPush.init({
-                                webKey: "ad77f87d323d27593794da6caaf152341f99c2e405e1c69e40e35b975166f29f",
-                                optInOptions: {
-                                    externalBoxMessage: "Vous recevrez de notre part des notifications personnalisées.",
-                                    externalBoxExampleTitle: "Exemple de notification",
-                                    externalBoxExampleMessage: "Ceci est un exemple de notification",
-                                    externalBoxDisclaimer: "Vous avez la possibilité de vous désabonner à tout moment",                         
-                                    modalBoxMessage: "Vous recevrez de notre part des notifications personnalisées. <br/>Vous avez la possibilité de vous désabonner à tout moment",
-                                    modalBoxButton: "J'ai compris !",
-                                    externalBoxProcessingMessage: "Inscription en cours",
-                                    externalBoxSuccessMessage: "Merci pour votre inscription !",
-                                    externalBoxFailureMessage: "Nous sommes désolés, une erreur est survenue",
-                                    externalBoxTooLongHint: "Connexion faible ou navigation privée ?",
-                                    externalBoxCloseHint: "Fermer"
-                                }
-                            });
-                            </script><!-- <meta name="NextGEN" version="2.2.45" /> -->
+<!-- <meta name="NextGEN" version="2.2.45" /> -->
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <meta name="ahrefs-site-verification" content="f09ae51bbb87186a79eb663f3af1e37d0d6d28a6a2f26784d7850332b7eb4166">
 <script>function _extends(){return(_extends=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n=arguments[e];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(t[o]=n[o])}return t}).apply(this,arguments)}function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(t,e){"object"===("undefined"==typeof exports?"undefined":_typeof(exports))&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.LazyLoad=e()}(this,function(){"use strict";var t="undefined"!=typeof window,e=t&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),n=t&&"IntersectionObserver"in window,o=t&&"classList"in document.createElement("p"),r={elements_selector:"img",container:e||t?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",class_loading:"loading",class_loaded:"loaded",class_error:"error",load_delay:0,auto_unobserve:!0,callback_enter:null,callback_exit:null,callback_reveal:null,callback_loaded:null,callback_error:null,callback_finish:null},a=function(t,e){return t.getAttribute("data-"+e)},s=function(t,e,n){var o="data-"+e;null!==n?t.setAttribute(o,n):t.removeAttribute(o)},i=function(t){return"true"===a(t,"was-processed")},c=function(t,e){return s(t,"ll-timeout",e)},l=function(t){return a(t,"ll-timeout")},u=function(t,e){var n,o=new t(e);try{n=new CustomEvent("LazyLoad::Initialized",{detail:{instance:o}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent("LazyLoad::Initialized",!1,!1,{instance:o})}window.dispatchEvent(n)};var d=function(t,e){t&&t(e)},f=function(t,e){t._loadingCount+=e,0===t._elements.length&&0===t._loadingCount&&d(t._settings.callback_finish)},_=function(t){for(var e,n=[],o=0;e=t.children[o];o+=1)"SOURCE"===e.tagName&&n.push(e);return n},v=function(t,e,n){n&&t.setAttribute(e,n)},b=function(t,e){v(t,"sizes",a(t,e.data_sizes)),v(t,"srcset",a(t,e.data_srcset)),v(t,"src",a(t,e.data_src))},g={IMG:function(t,e){var n=t.parentNode;n&&"PICTURE"===n.tagName&&_(n).forEach(function(t){b(t,e)});b(t,e)},IFRAME:function(t,e){v(t,"src",a(t,e.data_src))},VIDEO:function(t,e){_(t).forEach(function(t){v(t,"src",a(t,e.data_src))}),v(t,"src",a(t,e.data_src)),t.load()}},m=function(t,e){var n,o,r=e._settings,s=t.tagName,i=g[s];if(i)return i(t,r),f(e,1),void(e._elements=(n=e._elements,o=t,n.filter(function(t){return t!==o})));!function(t,e){var n=a(t,e.data_src),o=a(t,e.data_bg);n&&(t.style.backgroundImage='url("'.concat(n,'")')),o&&(t.style.backgroundImage=o)}(t,r)},h=function(t,e){o?t.classList.add(e):t.className+=(t.className?" ":"")+e},p=function(t,e,n){t.addEventListener(e,n)},y=function(t,e,n){t.removeEventListener(e,n)},E=function(t,e,n){y(t,"load",e),y(t,"loadeddata",e),y(t,"error",n)},w=function(t,e,n){var r=n._settings,a=e?r.class_loaded:r.class_error,s=e?r.callback_loaded:r.callback_error,i=t.target;!function(t,e){o?t.classList.remove(e):t.className=t.className.replace(new RegExp("(^|\\s+)"+e+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")}(i,r.class_loading),h(i,a),d(s,i),f(n,-1)},k=function(t,e){var n=function n(r){w(r,!0,e),E(t,n,o)},o=function o(r){w(r,!1,e),E(t,n,o)};!function(t,e,n){p(t,"load",e),p(t,"loadeddata",e),p(t,"error",n)}(t,n,o)},I=["IMG","IFRAME","VIDEO"],L=function(t,e){var n=e._observer;z(t,e),n&&e._settings.auto_unobserve&&n.unobserve(t)},x=function(t){var e=l(t);e&&(clearTimeout(e),c(t,null))},A=function(t,e){var n=e._settings.load_delay,o=l(t);o||(o=setTimeout(function(){L(t,e),x(t)},n),c(t,o))},z=function(t,e,n){var o=e._settings;!n&&i(t)||(I.indexOf(t.tagName)>-1&&(k(t,e),h(t,o.class_loading)),m(t,e),function(t){s(t,"was-processed","true")}(t),d(o.callback_reveal,t))},O=function(t){return!!n&&(t._observer=new IntersectionObserver(function(e){e.forEach(function(e){return function(t){return t.intersectionRatio>0}(e)?function(t,e){var n=e._settings;d(n.callback_enter,t),n.load_delay?A(t,e):L(t,e)}(e.target,t):function(t,e){var n=e._settings;d(n.callback_exit,t),n.load_delay&&x(t)}(e.target,t)})},{root:(e=t._settings).container===document?null:e.container,rootMargin:e.thresholds||e.threshold+"px"}),!0);var e},N=function(t,e){this._settings=function(t){return _extends({},r,t)}(t),this._loadingCount=0,O(this),this.update(e)};return N.prototype={update:function(t){var n=this,o=this._settings,r=t||o.container.querySelectorAll(o.elements_selector);this._elements=function(t){return t.filter(function(t){return!i(t)})}(Array.prototype.slice.call(r)),!e&&this._observer?this._elements.forEach(function(t){n._observer.observe(t)}):this.loadAll()},destroy:function(){var t=this;this._observer&&(this._elements.forEach(function(e){t._observer.unobserve(e)}),this._observer=null),this._elements=null,this._settings=null},load:function(t,e){z(t,this,e)},loadAll:function(){var t=this;this._elements.forEach(function(e){L(e,t)})}},t&&function(t,e){if(e)if(e.length)for(var n,o=0;n=e[o];o+=1)u(t,n);else u(t,e)}(N,window.lazyLoadOptions),N});
@@ -245,7 +215,19 @@ lazyLoader = {init: function(e) {}};</script><meta property="og:image" content="
 	<meta name="msapplication-square310x310logo"
 	      content="https://www.silicon.fr/wp-content/themes/kamino/assets/images/favicons_silicon/ms-icon-310x310.png"/>
 
-		<script type="application/ld+json">
+	    <script src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js" async></script>
+    <script>
+      window.WonderPush = window.WonderPush || [];
+      {
+        var initOptions = {
+          webKey: "ad77f87d323d27593794da6caaf152341f99c2e405e1c69e40e35b975166f29f",
+                    customDomain: "https://www.silicon.fr/wp-content/plugins/wonderpush-web-push-notifications/assets/sdk/",
+          frameUrl: "wp.html",
+        };
+                WonderPush.push(["init", initOptions]);
+      }
+          </script>
+    	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
 			"@type": "WebSite",
@@ -370,19 +352,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 <!-- End Google Tag Manager (noscript) -->
 
 <header role="banner">
-    <div class="bandeau-abo" style="width: 100%;height: 40px;
-    background-color: #2a30d7;display: block;">
-        <div class="wrap-contenus" style="position: relative;">
-            <p style="line-height: 40px;text-align: center;color: #000000;font-weight: 600;">
-                <a href="https://inscription.silicon.fr/profile/new-profile-1.php?idPartner=magnum11&continue=https://www.silicon.fr/abonnements&continue_label=Silicon&utm_source=magnum11" style="color: #ffffff;">
-                        Pendant le confinement, profitez des magazines numériques <span style="font-weight:400;"></span> en libre accès&nbsp;!
-                    </a>
-                    <span>&nbsp;| </span><a class="abo" style="color: #000" href="https://inscription.silicon.fr/profile/new-profile-1.php?idPartner=magnum11&continue=https://www.silicon.fr/abonnements&continue_label=Silicon&utm_source=kamino-magazine"> J'en profite ! 
-                </a>
-            </p>
-         </div>
-    </div>
-    <div id="primary-bar" class=" titlewording ">
+<div id="primary-bar" class=" titlewording ">
         <div class="wrapper clearfix">
                                 <div class="btn-menu-mobile"><a href="#"></a></div>
                     <ul id="menu-menu-right-v2" class="menu-mobile nav-menus"><li id="menu-item-334884" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334884"><a href="https://www.silicon.fr/actualites/cloud">Cloud</a></li>
@@ -393,17 +363,8 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 <li id="menu-item-334889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334889"><a href="https://www.silicon.fr/actualites/software">Logiciels</a></li>
 <li id="menu-item-334890" class="marketingLink menu-item menu-item-type-custom menu-item-object-custom menu-item-334890"><a href="https://livreblanc.silicon.fr/">Livres Blancs</a></li>
 <li id="menu-item-334891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334891"><a href="/dossiers">Dossiers</a></li>
-<li id="menu-item-334893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334893"><a href="#">Events</a>
-<ul class="sub-menu">
-	<li id="menu-item-348773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348773"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
-	<li id="menu-item-350992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350992"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
-	<li id="menu-item-348262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348262"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
-	<li id="menu-item-348772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348772"><a href="/hub/20ans">Hub Silicon 20 ans</a></li>
-	<li id="menu-item-350278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350278"><a href="https://www.silicon.fr/webinar/cybersecurite">La journée de la Cybersécurité</a></li>
-</ul>
-</li>
+<li id="menu-item-334893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334893"><a href="/events">Events</a></li>
 <li id="menu-item-334894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334894"><a href="/avis-expert">Avis d&rsquo;experts</a></li>
-<li id="menu-item-347139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347139"><a href="/hub/20ans">Silicon 20 ans</a></li>
 <li id="menu-item-334895" class="subMenuTitle menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334895"><a href="#">insight center</a>
 <ul class="sub-menu">
 	<li id="menu-item-334896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334896"><a href="/hub/ibm-cloud">HUB IBM CLOUD</a></li>
@@ -424,8 +385,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 							                <h1 class="tagline"> INSIGHTS FOR IT PROFESSIONALS</h1>
             		</div>
 	            <div class="top-menu">
-                <ul id="menu-top" class="nav-menus"><li id="menu-item-348263" class="hub-webinar menu-item menu-item-type-custom menu-item-object-custom menu-item-348263"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
-<li id="menu-item-97217" class="follow menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-97217"><a href="#">Suivez-nous</a>
+                <ul id="menu-top" class="nav-menus"><li id="menu-item-97217" class="follow menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-97217"><a href="#">Suivez-nous</a>
 <ul class="sub-menu">
 	<li id="menu-item-97235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97235"><a target="_blank" rel="nofollow" href="https://www.facebook.com/pages/Siliconfr/137530299596488">Facebook</a></li>
 	<li id="menu-item-97236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97236"><a target="_blank" rel="nofollow" href="https://www.twitter.com/frsilicon">Twitter</a></li>
@@ -516,16 +476,8 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 		<li id="menu-item-334917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334917"><a href="https://www.silicon.fr/actualites/security">Cybersécurité</a></li>
 	</ul>
 </li>
-	<li id="menu-item-348255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348255"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
 	<li id="menu-item-334918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334918"><a href="//livreblanc.silicon.fr/">Livres Blancs</a></li>
-	<li id="menu-item-334920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334920"><a href="#">Events</a>
-	<ul class="sub-menu">
-		<li id="menu-item-348770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348770"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
-		<li id="menu-item-350993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350993"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
-		<li id="menu-item-334923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334923"><a href="https://www.silicon.fr/webinar/cybersecurite">Hub Cyber-sécurité</a></li>
-		<li id="menu-item-348254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348254"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
-	</ul>
-</li>
+	<li id="menu-item-334920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334920"><a href="/events">Events</a></li>
 	<li id="menu-item-334921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334921"><a href="/avis-expert">avis d&rsquo;experts</a></li>
 	<li id="menu-item-334930" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334930"><a href="#">Insight center</a>
 	<ul class="sub-menu">
@@ -552,17 +504,8 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334889"><a href="https://www.silicon.fr/actualites/software">Logiciels</a></li>
 <li class="marketingLink menu-item menu-item-type-custom menu-item-object-custom menu-item-334890"><a href="https://livreblanc.silicon.fr/">Livres Blancs</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334891"><a href="/dossiers">Dossiers</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334893"><a href="#">Events</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348773"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-la-data/journee-de-la-data-webinars">La Journée de la Data</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350992"><a target="_blank" rel="noopener noreferrer" href="https://www.silicon.fr/hub/journee-de-linnovation-it/webinars-journee-de-linnovation-it">La Journée de l&rsquo;Innovation IT</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348262"><a href="/hub/workplace-paris/workplace-paris-webinar">Hub Workplace Paris</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-348772"><a href="/hub/20ans">Hub Silicon 20 ans</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-350278"><a href="https://www.silicon.fr/webinar/cybersecurite">La journée de la Cybersécurité</a></li>
-</ul>
-</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334893"><a href="/events">Events</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334894"><a href="/avis-expert">Avis d&rsquo;experts</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-347139"><a href="/hub/20ans">Silicon 20 ans</a></li>
 <li class="subMenuTitle menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-334895"><a href="#">insight center</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334896"><a href="/hub/ibm-cloud">HUB IBM CLOUD</a></li>
@@ -600,7 +543,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 </header>
 
 
-<div id="page" class="hfeed site"  style="padding-top: 190px;" >
+<div id="page" class="hfeed site" >
             <div id="main" class="wrapper clearfix">
             <div class="infinite-container">
 <script type="text/javascript" id="MOBILE_BANNER-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:MOBILE_BANNER-1");var scr = document.getElementById("MOBILE_BANNER-1");var device = "mobile";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-MOBILE_BANNER-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-MOBILE_BANNER-1 mobile");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[320, 50], [300, 50], [300, 100]], "div-gpt-ad-MOBILE_BANNER-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[320, 50], [300, 50], [300, 100]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-1"] = {};hutt_defineSlot["div-gpt-ad-MOBILE_BANNER-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-MOBILE_BANNER-1"]["slot"] = slot;googletag.display("div-gpt-ad-MOBILE_BANNER-1");});}</script><script type="text/javascript" id="DESKTOP_MEGA-1">var screensize = document.documentElement.clientWidth;if (screensize  < 1800) {var minscreenwidth = "1280";} else {var minscreenwidth = "1920";}var u_company = "n/a";var u_job_description = "n/a";var u_company_size = "n/a";var u_industry = "n/a";if (kaminoCookie.getItem("ct_echo") != undefined) {var ct_echo = JSON.parse(kaminoCookie.getItem("ct_echo"));ct_echo.details = ct_echo.details || {};u_company = ct_echo.company || "n/a";u_job_description = ct_echo.details.jd || "n/a";u_company_size = ct_echo.details.ne || "n/a";u_industry = ct_echo.details.is || "n/a";}console.log("id:DESKTOP_MEGA-1");var scr = document.getElementById("DESKTOP_MEGA-1");var device = "desktop";if(dfp_device_view == device){var slot_div = document.createElement("div");slot_div.setAttribute("id", "div-gpt-ad-DESKTOP_MEGA-1");slot_div.setAttribute("class", "dfp_ad div-gpt-ad-DESKTOP_MEGA-1 desktop");slot_div.setAttribute("height", "0");var word = "Publicité";if(word != ""){var slot_word_div = document.createElement("div");slot_word_div.setAttribute("class", "dfp_word");slot_word_div.innerHTML = word;slot_div.appendChild(slot_word_div);}scr.parentNode.insertBefore(slot_div, scr.nextSibling);googletag.cmd.push(function() {var infinite_scroll = false;if("" != ""){infinite_scroll = true;if(hutt_original_page_id != ""){hutt_original_page_id = "";hutt_defineSlot_slot_object_infinite_scroll = [];}}var slot = googletag.defineSlot("/14668010/silicon/tag",[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270], [5,5]], "div-gpt-ad-DESKTOP_MEGA-1").setTargeting("pos", 1).setTargeting("tag", "docker").setTargeting("min_width", minscreenwidth).setTargeting("job_description", u_job_description).setTargeting("company_size", u_company_size).setTargeting("industry", u_industry).setTargeting("company", u_company).addService(googletag.pubads());if(infinite_scroll == true){hutt_defineSlot_slot_object_infinite_scroll.push( slot );}var size = "[[728, 90], [728, 200], [976, 220], [970, 90], [970, 150], [970, 250], [1014, 90], [1014, 200], [1014, 300], [1080, 90], [1080, 200], [1080, 250], [1080, 300], [1080, 440], [978, 250], [1000, 200], [1000, 300], [1000, 90], [728, 270], [5,5]]";size = size.replace(/\s+/g, "");hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-1"] = {};hutt_defineSlot["div-gpt-ad-DESKTOP_MEGA-1"]["size"] = size;hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-1"] = {};hutt_defineSlot_slot_object["div-gpt-ad-DESKTOP_MEGA-1"]["slot"] = slot;googletag.display("div-gpt-ad-DESKTOP_MEGA-1");});}</script><div id="infinite-scroll-marker-start" style="display: none;"></div>
@@ -1257,7 +1200,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 </section><!-- #content -->
 
 <section id="kamino_listing_whitepapers_widget-4" class="whitepaper widget_kamino_listing_whitepapers_widget"><div class="widget-title"><a href="//livreblanc.silicon.fr">Les livres blancs à la une</a></div><div class="grid-1040"> <article id="topwhitepaper-"21757"><figure>
-                    <a href="https://livreblanc.silicon.fr/resource/une-nouvelle-architecture-dinfrastructure-hyperconvergee-desagregee" title="" rel="bookmark">
+                    <a href="https://livreblanc.silicon.fr/?post_type=resource&p=21757" title="" rel="bookmark">
                         <img width="67" class="lazy-load " data-src="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/Capture-120x90.png" data-srcset="https://livreblanc.silicon.fr/wp-content/uploads/2020/10/Capture-120x90.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
                     </a>
                 </figure>
@@ -1265,7 +1208,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
         <section>
                 <header class="entry-header">
                     <h2 class="entry-title">
-                        <a href="https://livreblanc.silicon.fr/resource/une-nouvelle-architecture-dinfrastructure-hyperconvergee-desagregee" title=""
+                        <a href="https://livreblanc.silicon.fr/?post_type=resource&p=21757" title=""
                            rel="bookmark">Une nouvelle architecture d'infrastructure hyperconvergée désagrégée</a>
                     </h2>
 
@@ -1387,7 +1330,19 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
             </div><!-- #page -->
             
             <footer id="footer" class="site-footer" role="contentinfo">
-                
+                	<div id='popupCloudEvent' class='event-popin pop-in cloudevent'>
+		<a id='close_popupmn' class="close_popin" href="#" rel='nofollow'></a>
+		<div class='wrap-contenus relative'>
+			<img src="https://www.silicon.fr/wp-content/themes/kamino/assets/refonte_v2/images/pop_in_events/cloud_event.png">
+			<div class='col-100'>
+				<div class='bloc-base'>
+					<h2>Assistez aux webconférences <br><b> le 04/02 de 9h à 17h30</b></h2>
+					<a target='_blank' rel='nofollow' href='https://bit.ly/39thtdM'>Inscrivez-vous</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
     <script type="text/javascript" defer="defer">
 
         (function ($) {
@@ -1569,7 +1524,7 @@ googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();
 <li id="menu-item-98334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98334"><a href="https://www.silicon.fr/services/contactez-service-etude">Contactez le service étude</a></li>
 <li id="menu-item-97290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97290"><a href="https://www.silicon.fr/services/proposition-de-partenariat">Proposition de partenariat</a></li>
 <li id="menu-item-97294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97294"><a href="/services/contact#annoncer">Annoncer sur Silicon.fr</a></li>
-</ul></div></aside><aside class="widget widget_text int"><div class="textwidget"><span class="titel-flags">NETMEDIAEUROPE : </span><ul><li class="br"><a href="//www.bitmag.com.br/">Brésil</a></li><li class="de"><a href="//www.silicon.de/">Allemagne</a></li><li class="fr"><a href="//www.silicon.fr/">France</a></li><li class="it"><a href="//www.silicon.it/">Italie</a></li></ul><ul><li class="pt"><a href="//www.bit.pt/">Portugal</a></li><li class="es"><a href="//www.silicon.es/">Espagne</a></li><li class="uk"><a href="//www.silicon.co.uk/">Royaume-Uni</a></li><li class="wo"><a href="//www.netmediaeurope.com/">Monde</a></li></ul><span class="top-page"><a id="back-top" href="">Top of the page</a></span></div></aside>                </div>
+</ul></div></aside><aside class="widget widget_text int"><div class="textwidget"><span class="titel-flags">NETMEDIAEUROPE : </span><ul><li class="br"><a href="//www.bitmag.com.br/">Brésil</a></li><li class="de"><a href="//www.silicon.de/">Allemagne</a></li><li class="fr"><a href="//www.silicon.fr/">France</a></li></ul><ul><li class="pt"><a href="//www.bit.pt/">Portugal</a></li><li class="es"><a href="//www.silicon.es/">Espagne</a></li><li class="uk"><a href="//www.silicon.co.uk/">Royaume-Uni</a></li><li class="wo"><a href="//www.netmediaeurope.com/">Monde</a></li></ul><span class="top-page"><a id="back-top" href="">Top of the page</a></span></div></aside>                </div>
                 <div class="site-info">
                 NetMediaEurope &copy; Copyright 2021 Tous droits réservés. <a href="https://www.netmediaeurope.com" title="NetMediaEurope">A propos de NetMediaEurope</a>                </div>
                 <!-- .site-info -->
@@ -1665,5 +1620,5 @@ var wpcf7_recaptcha = {"sitekey":"6LdbRJsUAAAAACP4b8FEV_0kQGnFckwfYCLRaixm","act
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 
-Served from: silicon.ig-1.net @ 2021-01-08 14:53:04 by W3 Total Cache
+Served from: silicon.ig-1.net @ 2021-02-03 10:46:29 by W3 Total Cache
 -->

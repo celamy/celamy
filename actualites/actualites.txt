@@ -28,6 +28,7 @@ www.silicon.fr/les-conteneurs-docker-une-planque-pour-les-malwares-182115.html |
 www.silicon.fr/alain-andreoli-hpe-le-marche-des-serveurs-devient-bipolaire-nous-misons-sur-la-valeur-179789.html | Alain Andreoli , HPE : Â« Le marchÃ© des serveurs devient bipolaire, nous misons sur la valeur Â»
 www.silicon.fr/docker-part-a-la-conquete-de-la-chine-177589.html | Docker part Ã  la conquÃªte de la Chine
 www.silicon.fr/avec-draft-microsoft-facilite-ladoption-de-kubernetes-176569.html | Avec Draft, Microsoft facilite lâ€™adoption de Kubernetes
+www.lemondeinformatique.fr/actualites/lire-docker-engine-passe-en-version-2010-81822.html
 www.lemondeinformatique.fr/actualites/lire-la-moitie-des-images-de-docker-hub-vulnerables-a-des-failles-critiques-81223.htmlé des images de Docker Hub vulnérables à des failles critiques 
 www.lemondeinformatique.fr/actualites/lire-docker-publie-son-1er-post-mortem-public-sur-un-incident-interne-80094.html
 www.lemondeinformatique.fr/actualites/lire-docker-hub-va-supprimer-les-images-de-containers-inactives-depuis-6-mois-80058.html
@@ -44,4 +45,3 @@ www.lemondeinformatique.fr/actualites/lire-docker-recrute-a-sa-tete-rob-bearden-
 www.lemondeinformatique.fr/actualites/lire-docker-enterprise-30-integre-une-pile-kubernetes-securisee-75207.htmlègre une pile Kubernetes sécurisée 
 www.lemondeinformatique.fr/actualites/lire-docker-s-associe-a-arm-autour-du-cloud-de-l-iot-et-de-l-edge-75103.htmlà ARM autour du cloud, de l'IoT et de l'edge 
 www.lemondeinformatique.fr/actualites/lire-12-outils-open-source-pour-ameliorer-docker-75082.htmléliorer Docker 
-www.lemondeinformatique.fr/actualites/lire-steve-singh-ceo-de-docker--les-gens-vont-construire-des-applications-s-empilant-comme-des-lego-73680.html« Les gens vont construire des applications s'empilant comme des Lego » 

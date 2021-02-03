@@ -5,7 +5,7 @@
 
 export BLACK='\e[0;30m'
 export DARK_GREY='\e[1;30m'
-export DARK_RED='\e[0;31m'
+export RED='\e[0;31m'
 export PINK='\e[1;31m'
 export DARK_GREEN='\e[0;32m'
 export GREEN='\e[1;32m'
@@ -23,17 +23,23 @@ export NEUTRAL='\e[0;m'
 
 # Chemins scripts
 
-export PRESENTATION='/home/pfe/menu/presentation.sh'
-export MENU_PRINCIPAL='/home/pfe/menu/menu_principal.sh'
-export MENU_AUDIT_TOUS_DOCKERS='/home/pfe/menu/audit_tous_test.sh'
-export MENU_AUDIT_UN_DOCKER='/home/pfe/menu/menu_audit_un_docker.sh'
-export ACTUALITES='/home/pfe/actualites/actualites.sh'
-export DOCKERFILES_DIRECTORIES='/home/pfe/audit/dockerfiles_directories.sh'
-export ANALYSE_IMAGE='/home/pfe/audit/image.sh'
-export ANSSI='/home/pfe/audit/ANSSI.sh'
-export CIS='/home/pfe/audit/CIS.sh'
-export CONSEILS='/home/pfe/actualites/conseils.sh'
+path=`pwd`
 
+export PRESENTATION=$path'/menu/presentation.sh'
+export MENU_PRINCIPAL=$path'/menu/menu_principal.sh'
+export MENU_AUDIT_TOUS_DOCKERS=$path'/menu/audit_tous_test.sh'
+export MENU_AUDIT_UN_DOCKER=$path'/menu/menu_audit_un_docker.sh'
+export ACTUALITES=$path'/actualites/actualites.sh'
+export DOCKERFILES_DIRECTORIES=$path'/audit/dockerfiles_directories.sh'
+export ANALYSE_IMAGE=$path'/audit/image.sh'
+export ANSSI=$path'/audit/ANSSI.sh'
+export CIS=$path'/audit/CIS.sh'
+export CONSEILS=$path'/actualites/conseils.sh'
+export SILICON=$path'/actualites/silicon.sh'
+export LMI=$path'/actualites/lmi.sh'
+export ACTUTEXT=$path'/actualites/actualites.txt'
+export SILITEXT=$path'/actualites/silicon.txt'
+export LMITEXT=$path'/actualites/lmi.txt'
 
 # Bannières
 
@@ -82,8 +88,6 @@ EOF
 	echo -e "${DARK_RED}"
 
 	cat << "EOF"
-
-
  /$$$$$$$                                     /$$            /$$$$$$            /$$
 | $$__  $$                                   | $$           /$$__  $$          | $$
 | $$  \ $$ /$$$$$$   /$$$$$$  /$$  /$$$$$$  /$$$$$$        | $$  \__/  /$$$$$$ | $$  /$$$$$$  /$$$$$$/$$$$  /$$   /$$
@@ -95,7 +99,13 @@ EOF
                         /$$  | $$                                                                           /$$  | $$
                        |  $$$$$$/                                                                          |  $$$$$$/
                         \______/                                                                            \______/
+EOF
 
+	echo -e "$YELLOW"
+	cat << "EOF"
+					┌┬┐┌─┐┌┐┌┬ ┬  ┌─┐┬─┐┬┌┐┌┌─┐┬┌─┐┌─┐┬  
+					│││├┤ ││││ │  ├─┘├┬┘│││││  │├─┘├─┤│  
+					┴ ┴└─┘┘└┘└─┘  ┴  ┴└─┴┘└┘└─┘┴┴  ┴ ┴┴─┘			
 
 EOF
 
@@ -103,7 +113,7 @@ EOF
 
 
 
-banniere_sous_menu(){
+banniere_sous_menu_tous(){
 	clear
 	echo -e "${PURPLE}"
 	cat << "EOF"
@@ -128,7 +138,6 @@ banniere_sous_menu(){
 EOF
 
 	echo -e "${DARK_RED}"
-
 	cat << "EOF"
 
 
@@ -144,11 +153,71 @@ EOF
                        |  $$$$$$/                                                                          |  $$$$$$/
                         \______/                                                                            \______/
 
+EOF
+	echo -e "$YELLOW"
+	cat << "EOF"
+			┌─┐┬ ┬┌┬┐┬┌┬┐  ┌┬┐┌─┐  ┌┬┐┌─┐┬ ┬┌─┐  ┬  ┌─┐┌─┐  ┌─┐┌─┐┌┐┌┬┐┌─┐┌┐┌┌─┐┬ ┬┬─┐┌─┐
+			├─┤│ │ │││ │    ││├┤    │ │ ││ │└─┐  │  ├┤ └─┐  │  │ │││││ ├┤ │││├┤ │ │├┬┘└─┐
+			┴ ┴└─┘─┴┘┴ ┴   ─┴┘└─┘   ┴ └─┘└─┘└─┘  ┴─┘└─┘└─┘  └─┘└─┘┘└┘┴ └─┘┘└┘└─┘└─┘┴└─└─┘
+           
 
+EOF
+}
+
+banniere_sous_menu_un(){
+	clear
+	echo -e "$PURPLE"
+	
+ cat << "EOF"
+
+                                          _,-""`""-~`)
+                                        (`~_,=========\
+                                         |---,___.-.__,\
+                                         |        o     \ ___  _,,,,_     _.--.
+                                          \      `^`    /`_.-"~      `~-;`     \
+                                           \_      _  .'                 `,     |
+                                             |`-                           \'__/
+                                            /                      ,_       \  `'-.
+                                           /    .-""~~--.            `"-,   ;_    /
+                                          |              \               \  | `""`
+                                           \__.--'`"-.   /_               |'
+                                                      `"`  `~~~---..,     |
+                                                                     \ _.-'`-.
+                                                                      \       \
+                                                                       '.     /
+                                                                         `"~"`
 
 EOF
 
+        echo -e "${DARK_RED}"
+        cat << "EOF"
+
+
+ /$$$$$$$                                     /$$            /$$$$$$            /$$
+| $$__  $$                                   | $$           /$$__  $$          | $$
+| $$  \ $$ /$$$$$$   /$$$$$$  /$$  /$$$$$$  /$$$$$$        | $$  \__/  /$$$$$$ | $$  /$$$$$$  /$$$$$$/$$$$  /$$   /$$
+| $$$$$$$//$$__  $$ /$$__  $$|__/ /$$__  $$|_  $$_/        | $$       /$$__  $$| $$ |____  $$| $$_  $$_  $$| $$  | $$
+| $$____/| $$  \__/| $$  \ $$ /$$| $$$$$$$$  | $$          | $$      | $$$$$$$$| $$  /$$$$$$$| $$ \ $$ \ $$| $$  | $$
+| $$     | $$      | $$  | $$| $$| $$_____/  | $$ /$$      | $$    $$| $$_____/| $$ /$$__  $$| $$ | $$ | $$| $$  | $$
+| $$     | $$      |  $$$$$$/| $$|  $$$$$$$  |  $$$$/      |  $$$$$$/|  $$$$$$$| $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$
+|__/     |__/       \______/ | $$ \_______/   \___/         \______/  \_______/|__/ \_______/|__/ |__/ |__/ \____  $$
+                        /$$  | $$                                                                           /$$  | $$
+                       |  $$$$$$/                                                                          |  $$$$$$/
+                        \______/                                                                            \______/
+
+EOF
+	echo -e "$YELLOW"
+	cat << "EOF"
+				┌─┐┬ ┬┌┬┐┬┌┬┐  ┬ ┬┌┐┌  ┌─┐┌─┐┬ ┬┬    ┌─┐┌─┐┌┐┌┬┐┌─┐┌┐┌┌─┐┬ ┬┬─┐
+				├─┤│ │ │││ │   │ ││││  └─┐├┤ │ ││    │  │ │││││ ├┤ │││├┤ │ │├┬┘
+				┴ ┴└─┘─┴┘┴ ┴   └─┘┘└┘  └─┘└─┘└─┘┴─┘  └─┘└─┘┘└┘┴ └─┘┘└┘└─┘└─┘┴└─
+
+EOF
 }
+
+
+
+
 
 
 banniere_sortie()

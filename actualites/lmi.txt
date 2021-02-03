@@ -56,7 +56,7 @@
 
     <script type="text/javascript">
 
-        $.ajax('https://www.lemondeinformatique.fr/tracking/adtech.php?id='+'UNKNOW'+'&ip='+'2306193239' ).done(function(data)
+        $.ajax('https://www.lemondeinformatique.fr/tracking/adtech.php?id='+'UNKNOW'+'&ip='+'223392989' ).done(function(data)
         {
             cookieVal = JSON.parse(data);
             var now = new Date();
@@ -83,7 +83,7 @@
 
 
 <script>
-    var idsessionidg = "5374cfcce23995da3df3f34147facb1b";
+    var idsessionidg = "3ee51514ccde24b2a7f2e914797382d0";
     var urlDestTrackIdg = "https://www.lemondeinformatique.fr/";
 </script>
 
@@ -653,33 +653,33 @@ function sendParamForPopupNL(inputString)
         <div onclick="ga(\'send\', \'event\', \'Contextualisation\', \'Clics\', \'box_question_etude\');" class="close"></div>
         <div class="contenu">
                             <div class="sous-titre">La question du moment</div>
-                <div class="question">Déployez-vous un modèle de sécurité zero trust ?</div>
+                <div class="question">Avez-vous mis en place des chatbots métiers pour répondre à certaines questions récurrentes ?</div>
 
                 <form id="form_question" method="get" action="">
                     <ul class="choix">
                                                     <li>
-                                <input type="radio" class="radio" value="1" name="question[910]" id="box_choix9101" />
-                                <label for="box_choix9101">Oui</label>
+                                <input type="radio" class="radio" value="1" name="question[952]" id="box_choix9521" />
+                                <label for="box_choix9521">Oui</label>
                             </li>
                                                         <li>
-                                <input type="radio" class="radio" value="2" name="question[910]" id="box_choix9102" />
-                                <label for="box_choix9102">En cours de mise en place</label>
+                                <input type="radio" class="radio" value="2" name="question[952]" id="box_choix9522" />
+                                <label for="box_choix9522">En cours de mise en place</label>
                             </li>
                                                         <li>
-                                <input type="radio" class="radio" value="3" name="question[910]" id="box_choix9103" />
-                                <label for="box_choix9103">En cours de réflexion</label>
+                                <input type="radio" class="radio" value="3" name="question[952]" id="box_choix9523" />
+                                <label for="box_choix9523">En cours de réflexion</label>
                             </li>
                                                         <li>
-                                <input type="radio" class="radio" value="4" name="question[910]" id="box_choix9104" />
-                                <label for="box_choix9104">J'aimerais bien</label>
+                                <input type="radio" class="radio" value="4" name="question[952]" id="box_choix9524" />
+                                <label for="box_choix9524">J'aimerais bien</label>
                             </li>
                                                         <li>
-                                <input type="radio" class="radio" value="5" name="question[910]" id="box_choix9105" />
-                                <label for="box_choix9105">Non</label>
+                                <input type="radio" class="radio" value="5" name="question[952]" id="box_choix9525" />
+                                <label for="box_choix9525">Non</label>
                             </li>
                                                 </ul>
-                    <input type="hidden" name="etude" value="82" />
-                    <input type="hidden" name="etqu" value="910" />
+                    <input type="hidden" name="etude" value="85" />
+                    <input type="hidden" name="etqu" value="952" />
                     <input type="hidden" name="site" value="lmi" />
                 </form>
                 <a target="_blank" class="logo" href="https://www.cio-online.com/etudes/"></a>
@@ -850,10 +850,10 @@ function sendParamForPopupNL(inputString)
 					<!--
 					<li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'CYBERSECURITE 2020');" href="https://www.lemondeinformatique.fr/cybersecurite/index.html">CyberSécurité 2020</a></li>
 					-->
-						                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'SolarWinds');" href="https://www.lemondeinformatique.fr/actualites/speciale-solarwinds-300.html">SolarWinds</a></li>
-	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'Tests');" href="https://www.lemondeinformatique.fr/actualites/speciale-tests-270.html">Tests</a></li>
-	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'IT Tour');" href="https://www.lemondeinformatique.fr/actualites/speciale-it-tour-18.html">IT Tour</a></li>
+						                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'Tests');" href="https://www.lemondeinformatique.fr/actualites/speciale-tests-270.html">Tests</a></li>
+	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'Silicon Valley');" href="https://www.lemondeinformatique.fr/actualites/speciale-silicon-valley-86.html">Silicon Valley</a></li>
 	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'LMI MAG');" href="https://www.lemondeinformatique.fr/actualites/speciale-lmi-mag-282.html">LMI MAG</a></li>
+	                    	                    <li><a onclick="ga('send', 'event', 'Header_Moment', 'Clics', 'IT Tour');" href="https://www.lemondeinformatique.fr/actualites/speciale-it-tour-18.html">IT Tour</a></li>
 	                    
                 </ul>
 			</div>
@@ -944,6 +944,24 @@ function sendParamForPopupNL(inputString)
            
             <div class="list-large">
                                     <article class="item">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-5">
+                                <figure class="image">
+                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-docker-engine-passe-en-version-2010-81822.html">
+                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000076780.jpg" alt="Docker Engine passe en version 20.10">
+                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000076780.jpg" border="0" title="Docker Engine passe en version 20.10" alt="Docker Engine passe en version 20.10" /></noscript>
+                                    </a>
+                                </figure>
+                            </div>
+                            
+                            <div class="col-sm-8 col-xs-7">
+                                <span class="theme"><b>le 01 Février 2021</b><span class="hidden-xs">  / Développement et Tests</span></span>
+                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-docker-engine-passe-en-version-2010-81822.html" class="title">Docker Engine passe en version 20.10</a></h2>
+                                <p>Le moteur pour créer et déployer des conteneurs évolue pour passer en version 20.10. Parmi les changements, Docker Engine améliore la console de ligne de commande, ainsi que le...</p>
+                            </div>
+                        </div>
+                    </article>
+                                        <article class="item">
                         <div class="row">
                             <div class="col-sm-4 col-xs-5">
                                 <figure class="image">
@@ -1228,24 +1246,6 @@ function sendParamForPopupNL(inputString)
                                 <span class="theme"><b>le 24 Avril 2019</b><span class="hidden-xs">  / Conteneur</span></span>
                                 <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-12-outils-open-source-pour-ameliorer-docker-75082.html" class="title">12 outils open source pour améliorer Docker</a></h2>
                                 <p>Depuis l'amélioration des interfaces graphiques des outils Docker jusqu'à la rationalisation du développement et des tests, de nombreux outils permettent d'améliorer les fonctions...</p>
-                            </div>
-                        </div>
-                    </article>
-                                        <article class="item">
-                        <div class="row">
-                            <div class="col-sm-4 col-xs-5">
-                                <figure class="image">
-                                    <a href="https://www.lemondeinformatique.fr/actualites/lire-steve-singh-ceo-de-docker--les-gens-vont-construire-des-applications-s-empilant-comme-des-lego-73680.html">
-                                        <img src="https://images.itnewsinfo.com/lmi/articles/loader.png" data-src="https://images.itnewsinfo.com/lmi/articles/moyen/000000064477.jpg" alt="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »">
-                                        <noscript><img src="https://images.itnewsinfo.com/lmi/articles/moyen/000000064477.jpg" border="0" title="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »" alt="Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »" /></noscript>
-                                    </a>
-                                </figure>
-                            </div>
-                            
-                            <div class="col-sm-8 col-xs-7">
-                                <span class="theme"><b>le 10 Décembre 2018</b><span class="hidden-xs">  / Conteneur</span></span>
-                                <h2><a href="https://www.lemondeinformatique.fr/actualites/lire-steve-singh-ceo-de-docker--les-gens-vont-construire-des-applications-s-empilant-comme-des-lego-73680.html" class="title">Steve Singh, CEO de Docker : « Les gens vont construire des applications s'empilant comme des Lego »</a></h2>
-                                <p>A l'occasion de la Dockercon Europe, le CEO de Docker, Steve Singh est revenu sur sa stratégie commerciale. Selon lui, les éditeurs d'applications vont de plus en plus partager et...</p>
                             </div>
                         </div>
                     </article>

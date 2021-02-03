@@ -10,5 +10,5 @@ do
 		# On affiche le lien
 		echo -e "$http"
 	fi
-done < /home/pfe/actualites/silicon.txt > /home/pfe/actualites/actualites.txt
+done < $SILITEXT > $ACTUTEXT
 #<a rel="follow" href="https://www.silicon.fr/aws-firelens-amazon-ecs-fargate-326535.html" title="Cloud : AWS lance FireLens pour Amazon ECS et Fargate">

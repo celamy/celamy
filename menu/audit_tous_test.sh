@@ -1,6 +1,6 @@
 #!/bin/bash
 
-. /home/pfe/menu/presentation.sh --source-only
+. /home/celamy/celamy/menu/presentation.sh --source-only
 
 #####################################################################################################################################################################
 #####################################################################################################################################################################
@@ -29,10 +29,10 @@ docker ps --format '{{.Names}};{{.Image}}' > running_containers.csv
 
 
 # aficher l'image de présentation
-banniere_sous_menu
+banniere_sous_menu_tous
 
 
-echo -e "${DARK_CYAN}Audit des dockers"
+echo -e "${DARK_CYAN}Audit de tous les conteneurs dockers"
 echo -e "${WHITE}               1. Audit complète"
 echo -e "               2. Analyse des images"
 echo -e "               3. Analyse des droits"
@@ -48,8 +48,14 @@ if [[ $output1 == 1 ]]; then
 	# toutes les audits
         clear
         echo "Toutes les analyses complètes"
+	cat running_containers.csv
         # appels des fonctions
-        $DOCKERFILES_DIRECTORIES 1
+	while IFS=';' read name image
+	do
+
+		$DOCKERFILES_DIRECTORIES $image
+		tput sgr0
+	done < running_containers.csv
 
 	echo -e "\n${YELLOW}                                            Appuyez sur une touche pour continuer.."
         read -n 1 -s
@@ -111,7 +117,13 @@ elif [[ $output1 == 3 ]]; then
         clear
         echo "Analyse des droits"
         # appels des fonctions
-	$DOCKERFILES_DIRECTORIES 1
+	while IFS=';' read name image
+	do
+		$DOCKERFILES_DIRECTORIES $image
+		tput sgr0
+	done < running_containers.csv
+
+
 
 	#affichage d'une actualité
         $CONSEILS
